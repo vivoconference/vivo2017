@@ -10,99 +10,98 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "VIVO Conference 2017"
+email: "vivo@null.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
-permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+baseurl: "/vivo2017"
+url: "http://grahamtriggs.github.io"
+permalink: "/news/:title"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "grahamtriggs.github.io"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "VIVO"
+organizerAlternateName: "VIVO Project"
+organizerDescription: "VIVO is member-supported, open source software and an ontology for representing scholarship.  VIVO supports recording, editing, searching, browsing, and visualizing scholarly activity. VIVO encourages showcasing the scholarly record, research discovery, expert finding, network analysis, and assessment of research impact.  VIVO is easily extended to support additional domains of scholarly activity."
+organizerEmail: "vivo@null.com"
+organizerLogo: "/img/seo/vivo-logo.jpg"
+organizerLink: "http://vivoweb.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "vivo, conference, programming, linked data"
+twitterAccount: "@vivocollab"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "http://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+#bottomNavigationLinks:
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "<typeout> VIVO Conference 2017"
+eventDate: "(TBC) August, 2017"
+typeoutTextValues: '"", "8th Annual", "International"'
+typeoutFallback: "8th Annual International"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About VIVO Conference"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Bringing together users, managers and developers from around the world to share the latest developments in semantic web academic profiles. Whether an experienced user, or just starting out, this is the event to attend." }
+ - {title: "Interest Groups", image: "workshop.jpg", text: "Throughout the conference, interactive sessions help shape the future of VIVO." }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "160", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "30", specialCharacter: "+", info: "hours", detail: "of VIVO practise"}
+ - {count: "40", specialCharacter: "+", info: "speakers", detail: "from around the world"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus plenary"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 0
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "Weill Cornell Medicine"
+eventLocationLink: "https://events.weill.cornell.edu"
+eventStreetAddress: "1300 York Avenue"
+eventAddressLocality: "New York"
+eventAddressLocalityRegion: "NY"
+eventPostalCode: "10065"
+eventAddressCountry: "United States"
+eventStartTime: "2017-08-01T09:00"
+eventDoorTime: "08:00"
+eventEndTime: "2017-08-03T20:00"
+eventPlaceCoordinates: "40.765210, -73.954747"
+mapCenterCoordinates: "40.765210, -73.954747"
+mapMobileCenterCoordinates: "40.765210, -73.954747"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,14 +109,14 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Weill Cornell Medical College"
+venueFeatures: ["4 auditoriums", "4 conference spaces", "Located directly by east river"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "vivo17"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -125,69 +124,70 @@ partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  price: "300"
+  priceCurrency: "USD"
   ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ribbon: "-25%"
+  buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2017-03-01T10:00"
+  validThrough: "2017-06-30T23:59"
   disabled: true
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  name: "Last Chance"
+  price: "400"
+  priceCurrency: "USD"
+  ticketsNumber: "100"
+#  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  validFrom: "2017-07-01T00:00"
+  validThrough: "2017-08-01T23:59"
+  disabled: true
+# -
+#  name: "Student"
+#  price: "200"
+#  priceCurrency: "USD"
+#  ticketsNumber: "50"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/b/116859468024652938007", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=vivocollab", icon: "twitter"}
+ - {link: "https://facebook.com/VIVOcollaboration", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://vivoweb.org", text: "VIVOWeb.org"}
+#   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:contact@vivoweb.org", text: "contact@vivoweb.org"}
  -
   title: "FAQ"
   links:
@@ -195,8 +195,8 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+discusShortName: "vivo17"
 
 # Speakers List Block
 showSessions: true
@@ -213,8 +213,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "49.840999, 24.031144"
+logisticsMapMobileCenterCoordinates: "49.840999, 24.031144"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
