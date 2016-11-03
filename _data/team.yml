@@ -1,19 +1,20 @@
-#- 
-#  id: 0
-#  name: "Julia"
-#  surname: "Trimmer"
-#  title: "VIVO Conference Chair"
-#  thumbnailUrl: JuliaTrimmer.jpg
-#  team: true
 - 
-  id: 0
+  id: "AlexViggio"
   name: "Alex"
   surname: "Viggio"
   title: "VIVO Conference Chair"
   thumbnailUrl: AlexViggio.png
   team: true
+-
+  id: "PaulAlbert"
+  name: "Paul"
+  surname: "Albert"
+  company: "Weill Cornell Medicine"
+  title: "VIVO Conference Co-Chair"
+  thumbnailUrl: PaulAlbert.jpg
+  team: true
 - 
-  id: 1
+  id: "VioletaIlik"
   name: "Violeta"
   surname: "Ilik"
   title: "Programme Chair"
@@ -22,26 +23,18 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
-#- 
-#  id: 2
-#  name: "Andi"
-#  surname: "Ogier"
-#  title: "Sponsorship Co-Chair"
-#  thumbnailUrl: AndiOgier.jpg
-#  team: true
-#- 
-#  id: 3
-#  name: "Manuel"
-#  surname: "de la Cruz Gutierrez"
-#  title: "Programme Chair"
-#  thumbnailUrl: ManualDeLa.jpg
-#  subTeam: true
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-#    - {name: "twitter", link: "https://twitter.com/p1f"}
-#    - {name: "site", link: "http://andrusiv.com/"}
 - 
-  id: 5
+  id: "EricMeeks"
+  name: "Eric"
+  surname: "Meeks"
+  title: "Programme Co-Chair"
+  thumbnailUrl: EricMeeks.jpg
+  subTeam: true
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: "MikeConlon"
   name: "Mike"
   surname: "Conlon"
   title: "VIVO Project Director"
@@ -53,7 +46,7 @@
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 6
+  id: "GrahamTriggs"
   name: "Graham"
   surname: "Triggs"
   title: "VIVO Tech Lead"
@@ -62,7 +55,7 @@
   ribbon: 
     - {abbr: "VIVO", title: "VIVO Project"}
 - 
-  id: 7
+  id: "DebraKurtz"
   name: "Debra"
   surname: "Hanken Kurtz"
   title: "Chief Executive Officer"
@@ -74,7 +67,7 @@
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 8
+  id: "CarolMintonMorris"
   name: "Carol"
   surname: "Minton-Morris"
   title: "Director of Marketing and Communications"
