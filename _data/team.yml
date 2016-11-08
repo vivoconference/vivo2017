@@ -2,7 +2,7 @@
   id: "AlexViggio"
   name: "Alex"
   surname: "Viggio"
-  title: "VIVO Conference Chair"
+  title: "Conference Chair"
   thumbnailUrl: AlexViggio.png
   team: true
 -
@@ -10,7 +10,7 @@
   name: "Paul"
   surname: "Albert"
   company: "Weill Cornell Medicine"
-  title: "VIVO Conference Co-Chair"
+  title: "Conference Vice-Chair"
   thumbnailUrl: PaulAlbert.png
   team: true
 - 
@@ -27,7 +27,7 @@
   id: "EricMeeks"
   name: "Eric"
   surname: "Meeks"
-  title: "Programme Co-Chair"
+  title: "Programme Vice-Chair"
   thumbnailUrl: EricMeeks.jpg
   subTeam: true
 #  social: 
