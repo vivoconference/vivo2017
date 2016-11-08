@@ -4157,7 +4157,7 @@ nav li a:hover {
 }
 
 .footer h5 {
-    font-size: 18px
+    font-size: 18px;
     font-weight: 400;
 }
 
@@ -4168,12 +4168,12 @@ nav li a:hover {
 
 .footer li {
     margin-bottom: 9px;
-    list-style-type: none
+    list-style-type: none;
     font-weight: bold;
 }
 
 .footer a {
-    color: #8b8b8b
+    color: #8b8b8b;
 }
 
 .footer a:hover {
