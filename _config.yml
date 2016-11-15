@@ -231,7 +231,7 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "", text: "Coming Soon"}
+     - {link: "http://bentleyhotelnyc.com/", text: "The Bentley Hotel"}
 #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
 
 # Hackathon
