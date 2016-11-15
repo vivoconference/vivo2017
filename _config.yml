@@ -131,8 +131,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 #subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Registration"
+ticketsInfo: "Registration grant access to all conference sections. Accommodation is NOT included in the cost."
 ticketsOffers:
  -
   name: "Early Bird"
@@ -142,7 +142,7 @@ ticketsOffers:
   ribbon: "-25%"
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["", "Prices coming soon", ""]
+  ticketContentList: ["", "Registration coming soon", ""]
   validFrom: "2017-03-01T10:00"
   validThrough: "2017-06-30T23:59"
   disabled: true
@@ -155,7 +155,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["", "Prices coming soon", ""]
+  ticketContentList: ["", "Registration coming soon", ""]
   validFrom: "2017-07-01T00:00"
   validThrough: "2017-08-02T23:59"
   disabled: true
@@ -175,7 +175,6 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/116859468024652938007", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=vivocollab", icon: "twitter"}
  - {link: "https://facebook.com/VIVOcollaboration", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
