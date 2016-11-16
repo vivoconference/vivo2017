@@ -68,14 +68,14 @@ heroButtons:
 aboutTitle: "About VIVO Conference"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Bringing together users, managers and developers from around the world to share the latest developments in semantic web academic profiles. Whether an experienced user, or just starting out, this is the event to attend." }
- - {title: "Interest Groups", image: "workshop.jpg", text: "Throughout the conference, interactive sessions help shape the future of VIVO." }
+ - {title: "Interactive Sessions", image: "workshop.jpg", text: "Throughout the conference, interactive sessions help shape the future of VIVO." }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "30", specialCharacter: "+", info: "hours", detail: "of VIVO practise"}
+ - {count: "30", specialCharacter: "+", info: "hours", detail: "of knowledge sharing"}
 # - {count: "40", specialCharacter: "+", info: "speakers", detail: "from around the world"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus plenary"}
 
@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Weill Cornell Medical College"
-venueFeatures: ["4 auditoriums", "4 conference spaces", "Located directly by east river"]
+venueFeatures: ["4 auditoriums", "4 conference spaces", "Located on the Upper East Side in Manhattan"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
