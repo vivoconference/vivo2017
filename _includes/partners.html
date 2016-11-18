@@ -29,7 +29,7 @@
 					{% endfor %}
 				</ul>
 				{% endfor %}
-				{% site.c4sponsorsUrl != null %}
+				{% if site.c4sponsorsUrl != null %}
 					<a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
 				{% endif %}
 			{% endif %}
