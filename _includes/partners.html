@@ -15,20 +15,24 @@
                 {% endfor %}
             </ul>
             {% endfor %}
-            <h3>{{ site.partnersTitle }}</h3>
-            {% for partner in site.data.partners %}
-            <h5>{{ partner.group }}</h5>
-            <ul class="list-inline">
-                {% for element in partner.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
-                {% endfor %}
-            </ul>
-            {% endfor %}
-            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+            {% if site.data.partners.length > 0 or site.c4sponsorsUrl != null %}
+				<h3>{{ site.partnersTitle }}</h3>
+				{% for partner in site.data.partners %}
+				<h5>{{ partner.group }}</h5>
+				<ul class="list-inline">
+					{% for element in partner.elements %}
+					<li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+						<a href="{{ element.link }}" target="_blank">
+							<img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+						</a>
+					</li>
+					{% endfor %}
+				</ul>
+				{% endfor %}
+				{% site.c4sponsorsUrl != null %}
+					<a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+				{% endif %}
+			{% endif %}
         </div>
     </div> 
 </section>
