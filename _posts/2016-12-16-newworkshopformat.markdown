@@ -12,6 +12,7 @@ VIVO 2017 Task Force is pleased to announce that next year conference will have 
 * Second: Workshop proposers, after having their workshop accepted, will be responsible for selecting speakers for their workshops who are experts in the field. By having more focused discussion on relevant topics we hope to enable VIVO conference attendees to learn what are the new trends in specific fields of interest to the community. 
  
 In detail, a workshop proposal must include the following:
+
 * A concise title of the workshop.
 * The names and the affiliations of the organizers. The organizers should add a short biographical note with their areas of expertise and their experience in organizing workshops or related events.
 * Proposed duration of the workshop (half or full day).
