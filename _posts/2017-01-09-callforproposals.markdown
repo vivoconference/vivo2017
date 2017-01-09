@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VIVO 2017 Conference Call for Proposals"
-date:   2017-02-09 08:00:00
+date:   2017-01-09 08:00:00
 isStaticPost: false
 ---
 
