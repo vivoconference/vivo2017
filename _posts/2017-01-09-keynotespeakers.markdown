@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Keynote Speakers"
+date:   2017-01-09 09:00:00
+isStaticPost: false
+---
 ### Keynote Speakers
 
 #### Cristina Pattuelli
