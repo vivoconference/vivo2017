@@ -17,7 +17,7 @@ baseurl: ""
 url: "http://vivoconference.org"
 permalink: "/news/:title"
 googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
-googleAnalyticsTrackingId: "UA-69456995-1"
+googleAnalyticsTrackingId: "UA-69456995-2"
 googleAnalyticsSiteUrl: "vivoconference.org"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
