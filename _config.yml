@@ -110,7 +110,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Weill Cornell Medical College"
+venueTitle: "Weill Cornell Medicine"
 venueFeatures: ["4 auditoriums", "4 conference spaces", "Located on the Upper East Side in Manhattan"]
 
 # Tweets Feed Block
