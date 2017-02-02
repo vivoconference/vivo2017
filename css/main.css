@@ -6517,3 +6517,26 @@ nav li a:hover {
         display: none !important
     }
 }
+
+#vivo-c4ptext {
+	font-weight: 300;
+	border-radius: 5px;
+	background-color:#000000;
+	opacity: 0.75;
+	padding: 10px;
+}
+
+#vivo-eventdate {
+	font-weight: 300;
+	border-radius: 5px;
+	background-color:#000000;
+	opacity: 0.75;
+	padding: 10px;
+}
+
+#vivo-heroTitle {
+	border-radius: 5px;
+	background-color:#000000;
+	opacity: 0.75;
+	padding: 10px;
+}

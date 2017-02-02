@@ -37,7 +37,9 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-#c4pUrl: "http://bit.ly/dfua-c4p"
+c4pButton: "Submit your proposal"
+c4pText: "We are currently accepting proposals for presentations, posters and workshops"
+c4pUrl: "https://easychair.org/conferences/?conf=vivo17"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
