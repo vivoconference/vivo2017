@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Invited Speakers"
+title:  Invited Speakers
 date:   2017-03-06
 isStaticPost: false
 ---
