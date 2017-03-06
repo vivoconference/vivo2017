@@ -15,7 +15,7 @@ isStaticPost: false
 
 
 
-## Rebecca Bryant
+#### Rebecca Bryant
 
 ![Rebecca Bryant](http://www.oclc.org/content/dam/research/images/people/bryant-2016-bio.png)
 
