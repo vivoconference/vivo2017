@@ -9,7 +9,7 @@ isStaticPost: false
 
 #### Call for Proposals
 
-##### Open through March 26, 2017
+##### Open through April 2nd, 2017
 
 The Eighth Annual VIVO Conference will be held August 2-4, 2017 at the Weill Cornell Medical Center in New York City. The organizers are pleased to issue this call for proposals to the program.
 The VIVO Conference creates a unique opportunity for people from around the world to come together to explore ways to use semantic technologies and linked open data to promote scholarly collaboration and research discovery.
@@ -19,8 +19,8 @@ Authors are invited to submit proposals for panel and paper presentations, works
 
 #### Deadlines:
 
-* Proposals must be received by Monday, March 26, 2017 at 12:00 AM EST
-* Acceptance Notification: May 7, 2017 by 12AM EST
+* Proposals must be received by Sunday, April 2nd, 2017 at 12:00 AM EST
+* Acceptance Notification: May 15th, 2017 by 12AM EST
 
 #### [Submit your proposal](https://easychair.org/conferences/?conf=vivo17)
 
