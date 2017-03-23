@@ -138,27 +138,27 @@ ticketsInfo: "Registration grant access to all conference sections. Accommodatio
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "TBD"
+  price: "$225"
   priceCurrency: "USD"
-  ticketsNumber: "150"
-  ribbon: "-25%"
-  buyButtonLink: "http://eventbrite.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["", "Registration coming soon", ""]
-  validFrom: "2017-03-01T10:00"
-  validThrough: "2017-06-30T23:59"
-  disabled: true
- -
-  name: "Last Chance"
-  price: "TBD"
-  priceCurrency: "USD"
-  ticketsNumber: "100"
-#  ribbon: "-20%"
+#  ticketsNumber: "150"
+  ribbon: "-40%"
   featured: true
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["", "Registration coming soon", ""]
-  validFrom: "2017-07-01T00:00"
+  validFrom: "2017-03-28T00:00"
+  validThrough: "2017-05-15T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "$99"
+  priceCurrency: "USD"
+#  ticketsNumber: "100"
+#  ribbon: "-20%"
+  buyButtonLink: "http://eventbrite.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["", "Registration coming soon", ""]
+  validFrom: "2017-03-28T00:00"
   validThrough: "2017-08-02T23:59"
   disabled: true
 # -
@@ -215,8 +215,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.840999, 24.031144"
-logisticsMapMobileCenterCoordinates: "49.840999, 24.031144"
+logisticsMapCenterCoordinates: "40.765210, -73.954747"
+logisticsMapMobileCenterCoordinates: "40.765210, -73.954747"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
@@ -225,16 +225,7 @@ directionDetailsTitle: "Get around New York"
 directionDetailsCards:
  - {title: "From the Airport", information: 'New York is served by three major airports, easily reachable by car, public transport or taxi.'}
  - {title: "Public Transit", information: 'New York has an excellent public transit network.'}
- - {title: "Hotels", information: 'New York has lots of great hotels. Details of preferred hotels will appear shortly.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "http://bentleyhotelnyc.com/", text: "The Bentley Hotel"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+ - {title: "Hotels", information: 'New York has lots of great hotels. Discounted rates are <a href="/news/bentleyhotel">available at The Bentley Hotel</a> within walking distance to the conference location.'}
 
 # Hackathon
 hackathonTitle: "Hackathon"
