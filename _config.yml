@@ -134,7 +134,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Registration"
-ticketsInfo: "Registration grant access to all conference sections. Accommodation is NOT included in the cost."
+ticketsInfo: "Registration grants full VIVO 2017 conference access including workshops. Accommodation is NOT included in the cost."
 ticketsOffers:
  -
   name: "Early Bird"
@@ -143,24 +143,25 @@ ticketsOffers:
 #  ticketsNumber: "150"
   ribbon: "-40%"
   featured: true
-  buyButtonLink: "http://eventbrite.com/"
+  buyButtonLink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
   buyButtonText: "Buy Now"
-  ticketContentList: ["", "Registration coming soon", ""]
+  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "Special rate ends May 15, 2017", ""]
   validFrom: "2017-03-28T00:00"
   validThrough: "2017-05-15T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Student"
   price: "$99"
   priceCurrency: "USD"
 #  ticketsNumber: "100"
 #  ribbon: "-20%"
-  buyButtonLink: "http://eventbrite.com/"
+  additionalInfo: ""
+  buyButtonLink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
   buyButtonText: "Buy Now"
-  ticketContentList: ["", "Registration coming soon", ""]
+  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "Requires a valid student ID at conference check in", ""]
   validFrom: "2017-03-28T00:00"
   validThrough: "2017-08-02T23:59"
-  disabled: true
+  disabled: false
 # -
 #  name: "Student"
 #  price: "200"
