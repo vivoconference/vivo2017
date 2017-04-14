@@ -40,8 +40,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pButton: "Submit your proposal"
 c4pText: "We are currently accepting proposals for presentations, posters and workshops (<a href='http://vivoconference.org/news/callforproposals'>more info</a>)"
 c4pUrl: "https://easychair.org/conferences/?conf=vivo17"
-#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+c4sponsorsUrl: "news/sponsorship"
 
 # Navigation
 navigationLinks:
@@ -60,7 +59,7 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "<typeout> VIVO Conference 2017"
 eventDate: "2nd-4th August, 2017"
-typeoutTextValues: '"", "8th Annual", "International"'
+typeoutTextValues: '"", "8th Annual ", "International "'
 typeoutFallback: "8th Annual International"
 heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
