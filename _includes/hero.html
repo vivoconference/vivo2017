@@ -17,7 +17,8 @@
             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
         </svg>
     </a>
-{% if site.c4purl != '' %}
+{% if site.c4purl == '' %}
+{% else %}	    
     <div class="jumbotron">
     	<p><span  id="vivo-c4ptext">{{ site.c4pText }}</span></p>
 		<a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">
