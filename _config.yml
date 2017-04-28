@@ -37,9 +37,9 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-# c4pButton: "Submit your proposal"
-# c4pText: "We are currently accepting proposals for presentations, posters and workshops (<a href='http://vivoconference.org/news/callforproposals'>more info</a>)"
-# c4pUrl: "https://easychair.org/conferences/?conf=vivo17"
+c4pButton: "Register for VIVO 2017"
+c4pText: "Conference registration is open! VIVO workshops are included at no extra cost this year."
+c4pUrl: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
 c4sponsorsUrl: "news/sponsorship"
 
 # Navigation
