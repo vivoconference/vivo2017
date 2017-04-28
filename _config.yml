@@ -50,6 +50,7 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
 #bottomNavigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
