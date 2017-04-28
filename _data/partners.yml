@@ -1,23 +1,21 @@
+-
+  group: "Platinum Sponsors"
+  elements:
+    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
+    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "clarivate-analytics.svg"}
 #- 
-#  group: "General sponsor"
+#  group: "Gold Sponsors"
 #  elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+#    - {name: "Plum Analytics", description: "Plum Analytics", link: "http://plumanalytics.com/", imageUrl: "Plum.jpg"}
+#    - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk/", imageUrl: "SYMPLECTICLogo.png"}
 #- 
-#  group: "With support of"
+#  group: "Silver Sponsors"
 #  elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+#    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
+#    - {name: "Kudos", description: "Kudos", link: "https://www.growkudos.com/", imageUrl: "Kudoslogo.jpg", width: "120px"}
+#    - {name: "NETE", description: "NETE", link: "http://www.nete.com/", imageUrl: "NETElogo.gif", width: "120px"}
 #- 
-#  group: "Information partners"
+#  group: "Institutional Sponsors"
 #  elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+#    - {name: "Cornell University Library", description: "Cornell University Library", link: "https://www.library.cornell.edu/", imageUrl: "CULibrary.jpg"}
+
