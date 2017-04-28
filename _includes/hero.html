@@ -17,7 +17,7 @@
             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
         </svg>
     </a>
-{% if site.c4purl == '' %}
+{% if site.c4pUrl == nil || site.c4pUrl == '' %}
 {% else %}
     <div class="jumbotron">
     	<p><span  id="vivo-c4ptext">{{ site.c4pText }}</span></p>
