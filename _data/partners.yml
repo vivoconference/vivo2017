@@ -3,19 +3,22 @@
   elements:
     - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
     - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "clarivate-analytics.svg"}
-#- 
+-
+  group: "Bronze Sponsors"
+  elements:
+    - {name: "GreenSight", description: "GreenSight", link: "https://www.greensightdata.com/", imageUrl: "GreenSight_Logo.png"}
+#-
 #  group: "Gold Sponsors"
-#  elements: 
+#  elements:
 #    - {name: "Plum Analytics", description: "Plum Analytics", link: "http://plumanalytics.com/", imageUrl: "Plum.jpg"}
 #    - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk/", imageUrl: "SYMPLECTICLogo.png"}
-#- 
+#-
 #  group: "Silver Sponsors"
-#  elements: 
+#  elements:
 #    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
 #    - {name: "Kudos", description: "Kudos", link: "https://www.growkudos.com/", imageUrl: "Kudoslogo.jpg", width: "120px"}
 #    - {name: "NETE", description: "NETE", link: "http://www.nete.com/", imageUrl: "NETElogo.gif", width: "120px"}
-#- 
+#-
 #  group: "Institutional Sponsors"
-#  elements: 
+#  elements:
 #    - {name: "Cornell University Library", description: "Cornell University Library", link: "https://www.library.cornell.edu/", imageUrl: "CULibrary.jpg"}
-
