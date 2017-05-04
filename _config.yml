@@ -145,9 +145,9 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "Special rate ends May 15, 2017", ""]
+  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "Special rate ends May 26, 2017", ""]
   validFrom: "2017-03-28T00:00"
-  validThrough: "2017-05-15T23:59"
+  validThrough: "2017-05-26T23:59"
   disabled: false
  -
   name: "Student"
