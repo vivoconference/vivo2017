@@ -3,6 +3,7 @@
   elements:
     - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
     - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "clarivate-analytics.svg"}
+    - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}    
 -
   group: "Bronze Sponsors"
   elements:
