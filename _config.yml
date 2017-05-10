@@ -52,7 +52,8 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
-#bottomNavigationLinks:
+ - {permalink: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
+##bottomNavigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -187,7 +188,8 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://vivoweb.org", text: "VIVOWeb.org"}
-#   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
+   - {link: "http://vivoconference.org/vivo2015/", text: "VIVO 2015"}
  -
   title: "Contacts"
   links:
