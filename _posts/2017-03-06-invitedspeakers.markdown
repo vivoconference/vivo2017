@@ -1,26 +1,40 @@
 ---
 layout: post
 title:  Invited Speakers
-date:   2017-03-06
+date:   2017-05-11
 isStaticPost: false
 ---
 ### Invited Speakers
 
 #### David Eichmann
 
-<img src="https://s3-eu-west-1.amazonaws.com/pfigshare-u-profiles/2603728/photo.png" width="200">
+<img src="/img/people/DavidEichmann.png" width="160" alt="David Eichmann" title="David Eichmann">
+
 #### Bio:
 
-[David Eichmann](https://www.slis.uiowa.edu/about) is Director and Associate Professor in the School of Library and Information Science at the University of Iowa.  He also directs the Information Science Subprogram in the Iowa Graduate Program in Informatics.  Over the course of his career he has conducted research in relational database theory, software reuse and reengineering, software repository architecture, web search engines and intelligent agents, information retrieval and extraction, biomedical informatics, ontology-based research profile harvesting and visualization, and most recently visualization and reconciliation techniques for linked open data library catalogs.  His current projects include Shakeosphere (modeling the social network of the print community in England 1540-1800), CTSAsearch (aggregating research profiles from 70+ institutions) and Linked Data for Libraries (LD4L) (where he is part of a consortium exploring the next generation of library catalogs).  He spends much of his summers attempting to keep the weeds at bay in his garden beds.
-
-
+[David Eichmann](https://www.slis.uiowa.edu/about) is Director and Associate Professor in the [School of Library and Information Science](https://www.slis.uiowa.edu/) at the University of Iowa.  He also directs the [Information Science Subprogram in the Iowa Graduate Program in Informatics](https://informatics.uiowa.edu/study-opportunities/graduate-program/information-science).  Over the course of his career he has conducted research in relational database theory, software reuse and reengineering, software repository architecture, web search engines and intelligent agents, information retrieval and extraction, biomedical informatics, ontology-based research profile harvesting and visualization, and most recently visualization and reconciliation techniques for linked open data library catalogs.  His current projects include [Shakeosphere](https://shakeosphere.lib.uiowa.edu/) (modeling the social network of the print community in England 1540-1800), [CTSAsearch](http://research.icts.uiowa.edu/polyglot/) (aggregating research profiles from 70+ institutions) and [Linked Data for Libraries](https://www.ld4l.org/) (LD4L) (where he is part of a consortium exploring the next generation of library catalogs).  He spends much of his summers attempting to keep the weeds at bay in his garden beds.
 
 #### Rebecca Bryant
 
-![Rebecca Bryant](http://www.oclc.org/content/dam/research/images/people/bryant-2016-bio.png)
+<img src="/img/people/RebeccaBryant.png" width="160" alt="Rebecca Bryant" title="Rebecca Bryant">
 
 #### Bio:
- 
-[Rebecca Bryant, PhD](https://orcid.org/0000-0002-2753-3881), serves as Senior Program Officer at OCLC Research where she leads and develops areas for the [OCLC Research Library Partnership](http://www.oclc.org/research/partnership.html) and for OCLC Research related to research information management and research support services, contributing to our thematic focus on [Research Collections and Support](http://www.oclc.org/research/themes/research-collections.html).
-Rebecca previously served as Project Manager for Researcher Information Services in the University Library at the University of Illinois at Urbana-Champaign where she led a campus-wide effort to implement the Elsevier Pure research information management system (RIMS), rebranded locally as [Illinois Research Connections](https://experts.illinois.edu/). She has also served as Director of Community at ORCID where she led outreach initiatives to encourage the adoption of ORCID identifiers throughout the scholarly communications community, particularly promoting adoption and integration within universities worldwide. Prior to ORCID, Dr. Bryant spent a decade in the University of Illinois Graduate College as Assistant Dean where she led numerous initiatives to support early career researchers, including the establishment of campus-wide graduate career services and postdoctoral affairs offices. She also served on a campus-wide project team to collect assessment data from 62 PhD programs for the National Research Council Assessment of Research Doctoral Programs. She has extensive experience defining and launching new technology initiatives within the research university setting, including Electronic Theses and Dissertations (ETDs) and serving as a project leader on the system-wide Banner ERP implementation team at Illinois. Rebecca earned a bachelor’s degree at Butler University, a master’s degree from the University of Cincinnati College-Conservatory of Music, and a PhD in musicology from the University of Illinois at Urbana-Champaign.
 
+[Rebecca Bryant, PhD](https://orcid.org/0000-0002-2753-3881), serves as Senior Program Officer at OCLC Research where she leads and develops areas for the [OCLC Research Library Partnership](http://www.oclc.org/research/partnership.html) and for OCLC Research related to research information management and research support services, contributing to our thematic focus on [Research Collections and Support](http://www.oclc.org/research/themes/research-collections.html).
+Rebecca previously served as Project Manager for Researcher Information Services in the University Library at the University of Illinois at Urbana-Champaign where she led a campus-wide effort to implement the Elsevier Pure research information management system (RIMS), rebranded locally as [Illinois Research Connections](https://experts.illinois.edu/). She has also served as Director of Community at [ORCID](https://orcid.org) where she led outreach initiatives to encourage the adoption of ORCID identifiers throughout the scholarly communications community, particularly promoting adoption and integration within universities worldwide. Prior to ORCID, Dr. Bryant spent a decade in the University of Illinois Graduate College as Assistant Dean where she led numerous initiatives to support early career researchers, including the establishment of campus-wide graduate career services and postdoctoral affairs offices. She also served on a campus-wide project team to collect assessment data from 62 PhD programs for the National Research Council Assessment of Research Doctoral Programs. She has extensive experience defining and launching new technology initiatives within the research university setting, including Electronic Theses and Dissertations (ETDs) and serving as a project leader on the system-wide Banner ERP implementation team at Illinois. Rebecca earned a bachelor’s degree at Butler University, a master’s degree from the University of Cincinnati College-Conservatory of Music, and a PhD in musicology from the University of Illinois at Urbana-Champaign.
+
+#### Katie Frey
+
+<img src="/img/people/KatieFrey.jpg" width="160" alt="Katie Frey" title="Katie Frey">
+
+#### Bio:
+
+[Katie Frey](http://orcid.org/0000-0001-9891-4465) is the Assistant Head and Digital Technologies Development Librarian at the [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/), where she has worked since 2012. One of her primary projects has been leading the development of the [Unified Astronomy Thesaurus](http://astrothesaurus.org/), a community supported linked data vocabulary for sorting, filtering, and exploring astronomical literature, data sets, images, etc. She also leads initiatives such as the digitization of logbooks written by women computer programmers who worked at the Harvard College Observatory in the mid to late 1800s and the development of a tools, devices, and maker collection for exploration and prototyping. Katie holds a Master's in Library and Information Science from the University of Pittsburgh and a BS in Astronomy from San Diego State University.
+
+#### Ying Ding
+
+<img src="/img/people/YingDing.jpg" width="160" alt="Ying Ding" title="Ying Ding">
+
+#### Bio:
+
+[Dr. Ying Ding](https://www.scopus.com/authid/detail.uri?authorId=35229200000) is an Associate Professor at [School of Informatics and Computing](https://www.soic.indiana.edu/), Indiana University and is currently the associate director for data science online program. She is the Changjiang Guest Professor at [Wuhan University](http://en.whu.edu.cn/) and Elsevier Guest Professor at [Tongji University China](http://www.tongji.edu.cn/english/). She has been involved in various NIH, NSF and European-Union funded projects. She has published 200+ papers in journals, conferences, and workshops, and served as the program committee member for 180+ international conferences. She is the co-editor of book series called [Semantic Web Synthesis](http://www.morganclaypool.com/toc/wbe.1/1/1) by Morgan & Claypool publisher. She is co-author of the book 'Intelligent Information Integration in B2B Electronic Commerce' published by Kluwer Academic Publishers, and co-author of the book chapter in 'Spinning the Semantic Web' published by MIT Press. She is the co-editor in chief for Journal of Data and Information Science, and serves as the editorial board member for Scientific Data (Nature), and several other top journals in Information Science and Semantic Web. She is the co-founder of Data2Discovery company advancing cutting edge technologies in data science. Her current research interests include data-driven science of science, data-driven discovery, Semantic Web, scientific collaboration, and the application of Web Technology.

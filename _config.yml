@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
 # - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
@@ -88,8 +88,8 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 2
-rockstarSpeakersTitle: "Keynote speakers"
+rockstarSpeakersCount: 6
+rockstarSpeakersTitle: "Keynotes and Invited Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
