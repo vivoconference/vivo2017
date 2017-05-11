@@ -1,18 +1,66 @@
-- 
+-
   id: "CristinaPattuelli"
   name: "Cristina"
   surname: "Pattuelli"
-  company: ""
-  title: ""
+  company: "School of Information at Pratt Institute"
+  title: "Associate Professor"
   bio: "M. Cristina Pattuelli is an associate professor at the School of Information at Pratt Institute in New York, US and a visiting professor at the Department of the Cultural Heritage at the University of Bologna, Italy where she teaches courses on knowledge organization, Linked Open Data, and art documentation. Her current research explores the intersection between cultural heritage and information representation and access. She is the founder and director of Linked Jazz, a project that investigates the application of Linked Open Data technology to archival resources. She has published extensively on topics of knowledge organization and semantic technologies in the area of cultural heritage and received the Jesse H. Shera Award for Distinguished Published Research. She is a frequent speaker and consultant to libraries, archives, and museums. She received her Ph.D. in information and library science from the University of North Carolina at Chapel Hill and holds degrees in philosophy and cultural heritage studies from the University of Bologna as well in archival science, paleography and diplomatics from the State Archives School of Bologna. She recently served as co-chair of the LODLAM Summit 2017."
   thumbnailUrl: CristinaPattuelli.jpg
+  ribbon:
+    - {abbr: "KEYNOTE", title: "Keynote Speaker"}
   rockstar: true
-- 
+-
   id: "JodiSchneider"
   name: "Jodi"
   surname: "Schneider"
-  company: ""
-  title: ""
+  company: "School of Information Sciences at the University of Illinois Urbana Champaign"
+  title: "Assistant Professor"
   bio: "Jodi Schneider is an assistant professor at the School of Information Sciences at the University of Illinois Urbana Champaign. She studies scholarly communication and social media through the lens of arguments, evidence, and persuasion. She is developing Linked Data (ontologies, metadata, Semantic Web) approaches to manage scientific evidence. Jodi holds degrees in Informatics (Ph.D., National University of Ireland, Galway), Library & Information Science (M.S. UIUC), Mathematics (M.A. UT-Austin), and Liberal Arts (B.A., Great Books, St. John’s College). She worked in academic libraries and bookstores for 6 years. She has also held research positions across the U.S. as well as in Ireland, England, France, and Chile."
   thumbnailUrl: JodiSchneider.png
+  ribbon:
+    - {abbr: "KEYNOTE", title: "Keynote Speaker"}
+  rockstar: true
+-
+  id: "DavidEichmann"
+  name: "David"
+  surname: "Eichmann"
+  company: "School of Library and Information Science at the University of Iowa"
+  title: "Director and Associate Professor"
+  bio: "David Eichmann is Director and Associate Professor in the School of Library and Information Science at the University of Iowa. He also directs the Information Science Subprogram in the Iowa Graduate Program in Informatics. Over the course of his career he has conducted research in relational database theory, software reuse and reengineering, software repository architecture, web search engines and intelligent agents, information retrieval and extraction, biomedical informatics, ontology-based research profile harvesting and visualization, and most recently visualization and reconciliation techniques for linked open data library catalogs. His current projects include Shakeosphere (modeling the social network of the print community in England 1540-1800), CTSAsearch (aggregating research profiles from 70+ institutions) and Linked Data for Libraries (LD4L) (where he is part of a consortium exploring the next generation of library catalogs). He spends much of his summers attempting to keep the weeds at bay in his garden beds."
+  thumbnailUrl: DavidEichmann.png
+  ribbon:
+    - {abbr: "INVITED", title: "Invited Speaker"}
+  rockstar: true
+-
+  id: "RebeccaBryant"
+  name: "Rebecca"
+  surname: "Bryant"
+  company: "OCLC Research"
+  title: "Senior Program Officer"
+  bio: "Rebecca Bryant, PhD, serves as Senior Program Officer at OCLC Research where she leads and develops areas for the OCLC Research Library Partnership and for OCLC Research related to research information management and research support services, contributing to our thematic focus on Research Collections and Support. Rebecca previously served as Project Manager for Researcher Information Services in the University Library at the University of Illinois at Urbana-Champaign where she led a campus-wide effort to implement the Elsevier Pure research information management system (RIMS), rebranded locally as Illinois Research Connections. She has also served as Director of Community at ORCID where she led outreach initiatives to encourage the adoption of ORCID identifiers throughout the scholarly communications community, particularly promoting adoption and integration within universities worldwide. Prior to ORCID, Dr. Bryant spent a decade in the University of Illinois Graduate College as Assistant Dean where she led numerous initiatives to support early career researchers, including the establishment of campus-wide graduate career services and postdoctoral affairs offices. She also served on a campus-wide project team to collect assessment data from 62 PhD programs for the National Research Council Assessment of Research Doctoral Programs. She has extensive experience defining and launching new technology initiatives within the research university setting, including Electronic Theses and Dissertations (ETDs) and serving as a project leader on the system-wide Banner ERP implementation team at Illinois. Rebecca earned a bachelor’s degree at Butler University, a master’s degree from the University of Cincinnati College-Conservatory of Music, and a PhD in musicology from the University of Illinois at Urbana-Champaign."
+  thumbnailUrl: RebeccaBryant.png
+  ribbon:
+    - {abbr: "INVITED", title: "Invited Speaker"}
+  rockstar: true
+-
+  id: "KatieFrey"
+  name: "Katie"
+  surname: "Frey"
+  company: "Harvard-Smithsonian Center for Astrophysics"
+  title: "Assistant Head and Digital Technologies Development Librarian"
+  bio: "Katie Frey is the Assistant Head and Digital Technologies Development Librarian at the Harvard-Smithsonian Center for Astrophysics, where she has worked since 2012. One of her primary projects has been leading the development of the Unified Astronomy Thesaurus, a community supported linked data vocabulary for sorting, filtering, and exploring astronomical literature, data sets, images, etc. She also leads initiatives such as the digitization of logbooks written by women computers who worked at the Harvard College Observatory in the mid to late 1800s and the development of a tools, devices, and maker collection for exploration and prototyping. Katie holds a Master's in Library and Information Science from the University of Pittsburgh and a BS in Astronomy from San Diego State University."
+  thumbnailUrl: KatieFrey.jpg
+  ribbon:
+    - {abbr: "INVITED", title: "Invited Speaker"}
+  rockstar: true
+-
+  id: "YingDing"
+  name: "Ying"
+  surname: "Ding"
+  company: "School of Informatics and Computing, Indiana University"
+  title: "Associate Professor"
+  bio: "Dr. Ying Ding is an Associate Professor at School of Informatics and Computing, Indiana University and is currently the associate director for data science online program. She is the Changjiang Guest Professor at Wuhan University and Elsevier Guest Professor at Tongji University China. She has been involved in various NIH, NSF and European-Union funded projects. She has published 200+ papers in journals, conferences, and workshops, and served as the program committee member for 180+ international conferences. She is the co-editor of book series called Semantic Web Synthesis by Morgan & Claypool publisher. She is co-author of the book 'Intelligent Information Integration in B2B Electronic Commerce' published by Kluwer Academic Publishers, and co-author of the book chapter in 'Spinning the Semantic Web' published by MIT Press. She is the co-editor in chief for Journal of Data and Information Science, and serves as the editorial board member for Scientific Data (Nature), and several other top journals in Information Science and Semantic Web. She is the co-founder of Data2Discovery company advancing cutting edge technologies in data science. Her current research interests include data-driven science of science, data-driven discovery, Semantic Web, scientific collaboration, and the application of Web Technology."
+  thumbnailUrl: YingDing.jpg
+  ribbon:
+    - {abbr: "INVITED", title: "Invited Speaker"}
   rockstar: true
