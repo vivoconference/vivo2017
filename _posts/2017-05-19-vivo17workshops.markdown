@@ -13,12 +13,9 @@ isStaticPost: false
 ##### Title: How to Make Your Research Networking System (RNS) Invaluable to Your Institution
 
 ###### Organizers: 
-From UCSF:
-Brian Turner, Eric Meeks, Anirvan Chatterjee
-From Duke:
-Lamont Cannon, Julia Trimmer
-From Elsevier Pure:
-Douglas Picadio, Lars Oestergaard, Kelechi Okere
+- Brian Turner, Eric Meeks, Anirvan Chatterjee - University of California San francisco
+- Lamont Cannon, Julia Trimmer - Duke University
+- Douglas Picadio, Lars Oestergaard, Kelechi Okere - Elsevier (Pure)
 
 ###### Duration: 3.5 hours 
 
@@ -27,22 +24,23 @@ Douglas Picadio, Lars Oestergaard, Kelechi Okere
 ###### Description: A half-day workshop for up to 20 people. We’ll need internet connectivity, a projector, classroom type seating for attendees with table/laptop space, and a lectern. 
 
 This workshop is designed to help institutions build, leverage, and deploy the information within their RNS across the institution. The goal is to increase awareness of, engagement with and dependence on your RNS to solidify the RNS’ roles in supporting researchers. Note that the takeaways from this workshop can be applied to your RNS regardless of the underlying product, and will work for a VIVO, Profiles, “home grown,” or commercial RNS installation. 
+
 We intend to provide a mix of lecture, discussion, exercises, and templates to enable participants to replicate the successful engagement at UCSF, Duke and Elsevier — and avoid our mistakes.
 
 
 ##### Title: Identity Management
 
 ###### Organizers: 
-John Riemer, chair - University of California Los Angeles (UCLA) 
-Amber Billey - Columbia University 
-Michelle Durocher, PoCo representative - Harvard University 
-Paul Frank, PCC NACO - Library of Congress 
-Stephen Hearn - University of Minnesota 
-Violeta Ilik - Northwestern University Feinberg School of Medicine 
-Jennifer Liss - Indiana University 
-Andrew MacEwan - British Library 
-Erin Stalberg - Mount Holyoke College 
-All organizers are members of the PCC Task Group on Identity Management in NACO 
+- John Riemer, chair - University of California Los Angeles (UCLA) 
+- Amber Billey - Columbia University 
+- Michelle Durocher, PoCo representative - Harvard University 
+- Paul Frank, PCC NACO - Library of Congress 
+- Stephen Hearn - University of Minnesota 
+- Violeta Ilik - Northwestern University Feinberg School of Medicine 
+- Jennifer Liss - Indiana University 
+- Andrew MacEwan - British Library 
+- Erin Stalberg - Mount Holyoke College 
+- All organizers are members of the PCC Task Group on Identity Management in NACO 
 
 ###### Duration: 3.5 hours 
 
@@ -54,6 +52,7 @@ All organizers are members of the PCC Task Group on Identity Management in NACO
 4. Understand how the traditional curating role for authorities data in libraries today may become much more focused on identity matching and disambiguation in the future 
 
 ###### Participants: 
+
 Expected participants would include experts in the field of authority control as used in libraries and established experts familiar with the new initiatives that look to integrate the identity management in systems such as research profiling systems, institutional repositories, and … 
 
 This specific workshop has not been organized before. The PCC TG on Identity Management in NACO began with its work in the spring of 2016. 
@@ -64,7 +63,6 @@ With increasing frequency, terminology like “Identity Management” is being u
 
 Libraries are shifting traditional notions of authority control from an approach primarily based on creating text strings to one focused on managing identities and entities. This workshop will examine the library experience of working collaboratively over centuries to standardize name forms, share important lessons learned, and explore what infrastructures might be put in place by libraries and institutions/organizations to enable us to work most effectively together going forward: minting and sharing identifiers, linking local identifiers to globally established ones, and creating metadata enrichment lifecycles that enable broad sharing of identity management activity. 
 
-
 The workshop will address the new initiative to start a pilot membership program for PCC (and other) institutions with the ISNI. This new initiative is intended to help create a pathway for globally shared identifier management work in libraries, in support of not only traditional uses, like including identifiers in MARC authority work, but also forward looking projects like linked data and non-MARC library initiatives like institutional repositories, faculty profiling systems and many other use cases.
 
 
@@ -73,22 +71,29 @@ The workshop will address the new initiative to start a pilot membership program
 
 ##### Title: Managing Assets as Linked Data with Fedora
 
-##### Organizers: David Wilcox and Andrew Woods
+##### Organizers: 
+- David Wilcox
+- Andrew Woods
 
 ###### Duration: 3.5 hours 
 
-###### Description: Fedora is a flexible, extensible, open source repository platform for managing, preserving, and providing access to digital content. Fedora is used in a wide variety of institutions including libraries, museums, archives, and government organizations. Fedora 4 introduces native linked data capabilities and a modular architecture based on well-documented APIs and ease of integration with existing applications. Recent community initiatives have added more robust functionality for exporting resources from Fedora in standard formats to support complete digital preservation workflows. Both new and existing Fedora users will be interested in learning about and experiencing Fedora features and functionality first-hand. 
+###### Description: 
+
+Fedora is a flexible, extensible, open source repository platform for managing, preserving, and providing access to digital content. Fedora is used in a wide variety of institutions including libraries, museums, archives, and government organizations. Fedora 4 introduces native linked data capabilities and a modular architecture based on well-documented APIs and ease of integration with existing applications. Recent community initiatives have added more robust functionality for exporting resources from Fedora in standard formats to support complete digital preservation workflows. Both new and existing Fedora users will be interested in learning about and experiencing Fedora features and functionality first-hand. 
 
 Attendees will be given pre-configured virtual machines that include Fedora bundled with the Solr search application and a triplestore that they can install on their laptops and continue using after the workshop. These virtual machines will be used to participate in hands-on exercises that will give attendees a chance to experience Fedora by following step-by-step instructions. Participants will learn how to create and manage content in Fedora in accordance with linked data best practices and the Portland Common Data Model. Attendees will also learn how to import resources into Fedora and export resources from Fedora to external systems and services as part of a digital curation workflow. Finally, participants will learn how to search and run SPARQL queries against content in Fedora using the included Solr index and triplestore.
 
 
 ##### Title: Promoting FAIR data principles with figshare
 
-###### Organizer: Alan Hyndman
+###### Organizer: 
+- Alan Hyndman
 
 ###### Duration: 3.5 hours
 
-###### Description: There has been much talk around FAIR repositories -- making content in a repository Findable, Accessible, Interoperable, and Discoverable-- to help create efficiencies throughout the research workflow and allowing researchers to build on data and research that came before them. Figshare works with researchers and publishers to help bridge this gap and connect the valuable underlying data to both the article and the researcher themselves, allowing for more credit for non-traditional outputs of research to spur scientific discovery and incentivize data sharing. This presentation will show how, by providing valuable infrastructure and bringing non-traditional research outputs to the forefront, discoverability and data reuse can raise researcher profiles and allow publishers to provide additional value to the journal article itself. 
+###### Description: 
+
+There has been much talk around FAIR repositories -- making content in a repository Findable, Accessible, Interoperable, and Discoverable-- to help create efficiencies throughout the research workflow and allowing researchers to build on data and research that came before them. Figshare works with researchers and publishers to help bridge this gap and connect the valuable underlying data to both the article and the researcher themselves, allowing for more credit for non-traditional outputs of research to spur scientific discovery and incentivize data sharing. This presentation will show how, by providing valuable infrastructure and bringing non-traditional research outputs to the forefront, discoverability and data reuse can raise researcher profiles and allow publishers to provide additional value to the journal article itself. 
 
 Openly-available academic data on the web will soon become the norm. Funders and publishers are already making preparations for how this content will be best managed and preserved. The coming open data mandates from funders and governments mean that we are now talking about ‘when’, not ‘if’, the majority of academic outputs will live openly on the worldwide web. The EPSRC of the UK is mandating dissemination of all of the digital products of research they fund this year. Similarly, the European Commission, Whitehouse’s OSTP, and Government of Canada are pushing ahead with directives that are also causing a chain effect of open data directives amongst European governments and North American funding bodies. 
 
@@ -97,20 +102,23 @@ This workshop will be a mix of group discussion and case study presentations fro
 
 ##### Title: Crosswalking Research Area Vocabularies in VIVO
 
-###### Organizers: Simon Porter and Don Elsborg
+###### Organizers: 
+- Simon Porter 
+- Don Elsborg
 
 ###### Duration: 3.5 hours
 
-###### Description: Many VIVO sites use different vocabularies to indicate the research areas they are affiliated with. For example the biological sciences uses PubMed MeSH subject headings but the Physical sciences might use a controlled vocabulary from a commercial vendor like Clarivate’s Web of Science Keywords or FAST terms from the Library of Congress. This can lead to redundancy and confusion on a VIVO site that allows the end user to filter based on a vocabulary term. The same or similar terms might display multiple times. Generally an end user isn’t concerned with the originating vocabulary of the term. They just want to filter or center their experience on that term. An example is how one can draw an equivalence between the Mesh Term “Textile Industry” at https://www.ncbi.nlm.nih.gov/mesh/68013783 and the same Agrovoc term visible at: http://oek1.fao.org/skosmos/agrovoc/en/page/?uri=http%3A%2F%2Faims.fao.org%2Faos%2Fagrovoc%2Fc_7696&clang=en 
-These both indicate “Textile Industry”. In VIVO the problem arises if one publication indicates the Mesh “Textile Industry” term while a different publication might indicate the Agrovoc “Textile Industry” term. VIVO now will show two “Textile Industry” concepts. 
-It gets more confounding as we search through the other vocabularies. Some sites like wikidata might have links to the term in various vocabularies, but not all. Looking at wikidata we have: 
-https://www.wikidata.org/wiki/Q28823 
-This has links to other vocabulary synonyms for “Textile”, but no links to FAST, MeSH, LCSH, Fields of Research (FOR) , or others. 
-Hence challenges are presented for VIVO sites that ingest publications from various sources, either directly or via applications like Symplectic Elements. 
+###### Description: 
 
-Our VIVO site, experts.colorado.edu is now impacted by this problem. We have thousands of publications from various sources using different vocabularies for research terms. We would like to import these publications and their terms into our VIVO. As a University that serves many disciplines how do we standardize which terms we will use. At first glance it seems that the amount of manual curation to do this properly is daunting. 
+Many VIVO sites use different vocabularies to indicate the research areas they are affiliated with. For example the biological sciences uses PubMed MeSH subject headings but the Physical sciences might use a controlled vocabulary from a commercial vendor like Clarivate’s Web of Science Keywords or FAST terms from the Library of Congress. This can lead to redundancy and confusion on a VIVO site that allows the end user to filter based on a vocabulary term. The same or similar terms might display multiple times. Generally an end user isn’t concerned with the originating vocabulary of the term. They just want to filter or center their experience on that term. 
 
-The question then becomes what are the use cases for using Research Areas and harmonizing the terms within a site or across multiple site. An obvious case would be a journalist searching an institution for experts within a certain subject area. The journalist might not know specifically what the subject area is so it’s important to provide a top level view of general subject areas and allow them to drill down. This also might imply that the vocabularies utilize a SKOs type broader/narrower implementation. In this case each of the broader and narrower terms also needs to be harmonized with other vocabularies. 
+An example is how one can draw an equivalence between the Mesh Term ![Textile Industry](https://www.ncbi.nlm.nih.gov/mesh/68013783) and the same ![Agrovoc term](http://oek1.fao.org/skosmos/agrovoc/en/page/?uri=http%3A%2F%2Faims.fao.org%2Faos%2Fagrovoc%2Fc_7696&clang=en). These both indicate “Textile Industry”. In VIVO the problem arises if one publication indicates the Mesh “Textile Industry” term while a different publication might indicate the Agrovoc “Textile Industry” term. VIVO now will show two “Textile Industry” concepts. 
+
+It gets more confounding as we search through the other vocabularies. Some sites like wikidata might have links to the term in various vocabularies, but not all. Looking at ![wikidata](https://www.wikidata.org/wiki/Q28823) we see links to other vocabulary synonyms for “Textile”, but no links to FAST, MeSH, LCSH, Fields of Research (FOR), or others. Hence challenges are presented for VIVO sites that ingest publications from various sources, either directly or via applications like Symplectic Elements. 
+
+University of Colorado ![VIVO site](experts.colorado.edu) is now impacted by this problem. We have thousands of publications from various sources using different vocabularies for research terms. We would like to import these publications and their terms into our VIVO. As a University that serves many disciplines how do we standardize which terms we will use. At first glance it seems that the amount of manual curation to do this properly is daunting. 
+
+The question then becomes what are the use cases for using Research Areas and harmonizing the terms within a site or across multiple site. An obvious case would be a journalist searching an institution for experts within a certain subject area. The journalist might not know specifically what the subject area is so it’s important to provide a top level view of general subject areas and allow them to drill down. This also might imply that the vocabularies utilize a SKOS type broader/narrower implementation. In this case each of the broader and narrower terms also needs to be harmonized with other vocabularies. 
 
 Solving this problem is crucial, especially if one wants to traverse multiple machine readable VIVO sites to locate items that might share a similar research area. Potential solutions could be that a VIVO site imports a crosswalk list of same-as statements between different research vocabularies or they utilize a lookup service. 
 Other options include a federated vocabulary harmonizing service where all VIVOs register and have their taxonomies mined in order to be synced with a master service. Perhaps something similar to a distributed blockchain service. 
@@ -118,6 +126,4 @@ One reason this might be preferable is because many if not most VIVO sites requi
 
 This workshop or panel will discuss and weigh the various options of modeling and displaying this data, in machine readable and html format, and align these options with the needs of the typical VIVO sites taking into account the governance mechanisms and uses cases for these various VIVO scenarios. This is a very broad topic hence discussion will be scoped to maintain an objective of having a VIVO site display research areas in a similar fashion as commercial sites like Amazon do. 
 
-Ideally we would have a panel that consists of a Library Cataloguer, Application Developer, UX/UI designer, MetaData Manager, data provider such as Symplectic, Clarivate, CrossRef, Pubmed. This talk relates to work being done by OCLC and Linked Data for Libraries. There are probably other projects that are addressing this concern in a more general manner. I would welcome any assistance in identifying individuals that would like to participate in this panel or workshop. 
-Currently I have discussed this with Benjamin Gross from Unavco who is willing to partner with me on this. 
 
