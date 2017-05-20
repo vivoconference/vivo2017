@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "VIVO Conference 2017"
 email: "conference@vivoweb.org"
-description: "VIVO Conference is the annual event."
+description: "8th Annual International VIVO Conference at Weill Cornell Medicine"
 baseurl: ""
 url: "http://vivoconference.org"
 permalink: "/news/:title"
