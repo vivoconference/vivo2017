@@ -6,29 +6,31 @@ isStaticPost: false
 ---
 ### VIVO17 Workshops
 
-#### Wednesday 2nd of August
-##### Morning Workshops
+##### Wednesday 2nd of August, Morning Workshops
 
-
-##### Title: How to Make Your Research Networking System (RNS) Invaluable to Your Institution
+#### How to Make Your Research Networking System (RNS) Invaluable to Your Institution
 
 ###### Organizers:
-- Brian Turner, Eric Meeks, Anirvan Chatterjee - University of California San francisco
-- Lamont Cannon, Julia Trimmer - Duke University
+- [Brian Turner](http://openvivo.org/display/orcid0000-0003-3150-3762), [Eric Meeks](http://openvivo.org/display/orcid0000-0001-9648-975X), [Anirvan Chatterjee](http://openvivo.org/display/orcid0000-0001-5905-3754) - University of California San Francisco
+- Lamont Cannon, [Julia Trimmer](http://openvivo.org/display/orcid0000-0003-1088-1043) - Duke University
 - Douglas Picadio, Lars Oestergaard, Kelechi Okere - Elsevier (Pure)
 
 ###### Duration: 3.5 hours
 
-###### Learning outcomes: attendees will be prepared to implement several different tactics to strengthen the utility and prominence of their RNS for their institution.
+###### Learning outcomes:
 
-###### Description: A half-day workshop for up to 20 people. We’ll need internet connectivity, a projector, classroom type seating for attendees with table/laptop space, and a lectern.
+Attendees will be prepared to implement several different tactics to strengthen the utility and prominence of their RNS for their institution.
+
+###### Description:
+
+A half-day workshop for up to 20 people. We’ll need internet connectivity, a projector, classroom type seating for attendees with table/laptop space, and a lectern.
 
 This workshop is designed to help institutions build, leverage, and deploy the information within their RNS across the institution. The goal is to increase awareness of, engagement with and dependence on your RNS to solidify the RNS’ roles in supporting researchers. Note that the takeaways from this workshop can be applied to your RNS regardless of the underlying product, and will work for a VIVO, Profiles, “home grown,” or commercial RNS installation.
 
 We intend to provide a mix of lecture, discussion, exercises, and templates to enable participants to replicate the successful engagement at UCSF, Duke and Elsevier — and avoid our mistakes.
 
 
-##### Title: Identity Management
+#### Identity Management
 
 ###### Organizers:
 - John Riemer, chair - University of California Los Angeles (UCLA)
@@ -36,7 +38,7 @@ We intend to provide a mix of lecture, discussion, exercises, and templates to e
 - Michelle Durocher, PoCo representative - Harvard University
 - Paul Frank, PCC NACO - Library of Congress
 - Stephen Hearn - University of Minnesota
-- Violeta Ilik - Northwestern University Feinberg School of Medicine
+- [Violeta Ilik](http://openvivo.org/display/orcid0000-0003-2588-3084) - Northwestern University Feinberg School of Medicine
 - Jennifer Liss - Indiana University
 - Andrew MacEwan - British Library
 - Erin Stalberg - Mount Holyoke College
@@ -65,16 +67,16 @@ Libraries are shifting traditional notions of authority control from an approach
 
 The workshop will address the new initiative to start a pilot membership program for PCC (and other) institutions with the ISNI. This new initiative is intended to help create a pathway for globally shared identifier management work in libraries, in support of not only traditional uses, like including identifiers in MARC authority work, but also forward looking projects like linked data and non-MARC library initiatives like institutional repositories, faculty profiling systems and many other use cases.
 
+---
 
-#### Wednesday 2nd of August
-##### Afternoon Workshops
+##### Wednesday 2nd of August, Afternoon Workshops
 
 
-##### Title: Managing Assets as Linked Data with Fedora
+#### Managing Assets as Linked Data with Fedora
 
 ##### Organizers:
 - David Wilcox
-- Andrew Woods
+- [Andrew Woods](http://openvivo.org/display/orcid0000-0002-8318-4225)
 
 ###### Duration: 3.5 hours
 
@@ -85,7 +87,7 @@ Fedora is a flexible, extensible, open source repository platform for managing, 
 Attendees will be given pre-configured virtual machines that include Fedora bundled with the Solr search application and a triplestore that they can install on their laptops and continue using after the workshop. These virtual machines will be used to participate in hands-on exercises that will give attendees a chance to experience Fedora by following step-by-step instructions. Participants will learn how to create and manage content in Fedora in accordance with linked data best practices and the Portland Common Data Model. Attendees will also learn how to import resources into Fedora and export resources from Fedora to external systems and services as part of a digital curation workflow. Finally, participants will learn how to search and run SPARQL queries against content in Fedora using the included Solr index and triplestore.
 
 
-##### Title: Promoting FAIR data principles with figshare
+#### Promoting FAIR data principles with figshare
 
 ###### Organizer:
 - Alan Hyndman
@@ -101,11 +103,11 @@ Openly-available academic data on the web will soon become the norm. Funders and
 This workshop will be a mix of group discussion and case study presentations from Carnegie Mellon University and St Edward’s University, who will be talking through their approach to implementing figshare and the tools they have built on top of the figshare API. The half day will look at the research data management landscape, from the different approaches on the institutional level that are being taken to adjust to the various funder mandates to the ways your institution can ensure researchers comply with these funder requirements. In doing so, we will explore how existing workflows will be disrupted and what potential opportunities there are for adding value to academic research and profile at your institution. It will also take the audience through the experience of figshare and how we’re attempting to contribute in an area that has many stakeholders - funders, governments, institutions and the researchers themselves.
 
 
-##### Title: Crosswalking Research Area Vocabularies in VIVO
+#### Crosswalking Research Area Vocabularies in VIVO
 
 ###### Organizers:
-- Simon Porter
-- Don Elsborg
+- [Simon Porter](http://openvivo.org/display/orcid0000-0002-6151-8423)
+- [Don Elsborg](http://openvivo.org/display/orcid0000-0003-0100-716X)
 
 ###### Duration: 3.5 hours
 
