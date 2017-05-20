@@ -46,10 +46,8 @@ c4sponsorsUrl: "news/sponsorship"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
-# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
  - {permalink: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
@@ -193,10 +191,13 @@ footerBlocks:
  -
   title: "Contacts"
   links:
+   - {permalink: "/team/", text: "VIVO 2017 Team"}
    - {link: "mailto:contact@vivoweb.org", text: "contact@vivoweb.org"}
  -
   title: "FAQ"
   links:
+   - {permalink: "/faq/", text: "Frequently Asked Questions"}
+   - {permalink: "/logistics/", text: "Logistics"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
