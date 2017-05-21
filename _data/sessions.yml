@@ -1,12 +1,28 @@
 -
-  id: 307
+  id: 901
+  title: "Breakfast"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 902
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
+  id: 903
+  title: "Lunch"
+  place: "Dining room"
+  service: true
+-
+  id: 904
+  title: "Lunch and Birds of a Feather"
+  place: "Dining room"
+  service: true
+-
+  id: 905
+  title: "Welcome Reception"
   place: "Dining room"
   service: true
 -
