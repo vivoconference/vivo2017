@@ -65,7 +65,7 @@
     - {abbr: "INVITED", title: "Invited Speaker"}
   rockstar: true
 -
-  id: "James Hendler"
+  id: "JamesHendler"
   name: "James"
   surname: "Hendler"
   company: "Cognitive Science Department, RPI"
