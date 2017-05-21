@@ -1,11 +1,10 @@
 - 
   date: "2017-08-02"
   dateReadable: "August 2"
-  # Lib Collab / A-250
   tracks: 
-    - {title: "Will Greenburg A", color: "#90be4e"}
-    - {title: "Will Greenburg B", color: "#03a9f4"}
-    - {title: "Will Greenburg C", color: "#e91e63"}
+    - {title: "Workshops", color: "#90be4e"}
+    - {title: "Workshops", color: "#03a9f4"}
+    - {title: "Workshops", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
@@ -15,7 +14,7 @@
     - {
     	startTime: "08:30",
     	endTime: "12:00",
-    	sessionIds: []
+    	sessionIds: [701,702]
     }
     - {
         startTime: "12:00",
@@ -25,7 +24,7 @@
     - {
     	startTime: "13:30",
     	endTime: "17:00",
-    	sessionIds: []
+    	sessionIds: [703,704,705]
     }
     - {
     	startTime: "17:30",
@@ -48,7 +47,7 @@
     - {
     	startTime: "08:30",
     	endTime: "10:00",
-    	sessionIds: []
+    	sessionIds: [801]
     }
     - {
     	startTime: "10:00",
@@ -57,8 +56,18 @@
     }
     - {
         startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [101,102,103]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [104,105,106]
+    }
+    - {
+        startTime: "11:30",
         endTime: "12:00",
-        sessionIds: []
+        sessionIds: [107,108,109]
     }
     - {
     	startTime: "12:00",
@@ -67,8 +76,13 @@
     }
     - {
     	startTime: "13:30",
+    	endTime: "14:15",
+    	sessionIds: [803]
+    }
+    - {
+    	startTime: "14:15",
     	endTime: "15:00",
-    	sessionIds: []
+    	sessionIds: [804]
     }
     - {
     	startTime: "15:00",
@@ -77,13 +91,23 @@
     }
     - {
     	startTime: "15:30",
+    	endTime: "16:00",
+    	sessionIds: [110,111,112]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:30",
+    	sessionIds: [113,114,115]
+    }
+    - {
+    	startTime: "16:30",
     	endTime: "17:00",
-    	sessionIds: []
+    	sessionIds: [116,117,118]
     }
     - {
     	startTime: "17:00",
     	endTime: "19:00",
-    	sessionIds: []
+    	sessionIds: [906]
     }
 - 
   date: "2017-08-04"
@@ -101,7 +125,7 @@
     - {
     	startTime: "08:30",
     	endTime: "10:00",
-    	sessionIds: []
+    	sessionIds: [802]
     }
     - {
     	startTime: "10:00",
@@ -110,8 +134,18 @@
     }
     - {
         startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [119,120,121]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [122,123,124]
+    }
+    - {
+        startTime: "11:30",
         endTime: "12:00",
-        sessionIds: []
+        sessionIds: [125,126,127]
     }
     - {
     	startTime: "12:00",
@@ -120,8 +154,13 @@
     }
     - {
     	startTime: "13:30",
+    	endTime: "14:15",
+    	sessionIds: [805]
+    }
+    - {
+    	startTime: "14:15",
     	endTime: "15:00",
-    	sessionIds: []
+    	sessionIds: [806]
     }
     - {
     	startTime: "15:00",
@@ -131,10 +170,10 @@
     - {
     	startTime: "15:30",
     	endTime: "16:30",
-    	sessionIds: []
+    	sessionIds: [807]
     }
     - {
     	startTime: "16:30",
     	endTime: "17:00",
-    	sessionIds: []
+    	sessionIds: [128]
     }
