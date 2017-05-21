@@ -75,3 +75,329 @@
   ribbon:
     - {abbr: "INVITED", title: "Invited Speaker"}
   rockstar: true
+-
+  id: "AlanHyndman"
+  name: "Alan"
+  surname: "Hyndman"
+  company: "figshare"
+-
+  id: "AmberBilley"
+  name: "Amber"
+  surname: "Billey"
+  company: "Columbia University"
+-
+  id: "AndrewMacEwan"
+  name: "Andrew"
+  surname: "MacEwan"
+  company: "British Library"
+-
+  id: "AndrewWoods"
+  name: "Andrew"
+  surname: "Woods"
+  company: "Duraspace"
+-
+  id: "AnirvanChatterjee"
+  name: "Anirvan"
+  surname: "Chatterjee"
+  company: "UCSF"
+-
+  id: "AnnBeynon"
+  name: "Ann"
+  surname: "Beynon"
+  company: "Clarivate Analytics"
+-
+  id: "ArielKatz"
+  name: "Ariel"
+  surname: "Katz"
+  company: "LabSpot, SkillSight"
+-
+  id: "AyeshaJoshi"
+  name: "Ayesha"
+  surname: "Joshi"
+  company: "Weill Cornell Medicine"
+-
+  id: "BenjaminGross"
+  name: "Benjamin"
+  surname: "Gross"
+  company: "UNAVCO"
+-
+  id: "BesikiStvilia"
+  name: "Besiki"
+  surname: "Stvilia"
+  company: "Florida State University"
+-
+  id: "BrianLowe"
+  name: "Brian"
+  surname: "Lowe"
+  company: "Ontocale SRL"
+-
+  id: "BrianTurner"
+  name: "Brian"
+  surname: "Turner"
+  company: "UCSF"
+-
+  id: "ChristianHauschke"
+  name: "Christian"
+  surname: "Hauschke"
+  company: "German National Library of Science and Technology"
+-
+  id: "DamarisMurry"
+  name: "Damaris"
+  surname: "Murry"
+  company: "Duke University"
+-
+  id: "DavidNeiman"
+  name: "David"
+  surname: "Neiman"
+  company: "Harvard University"
+-
+  id: "DavidWilcox"
+  name: "David"
+  surname: "Wilcox"
+  company: "Duraspace"
+-
+  id: "DeanKrafft"
+  name: "Dean"
+  surname: "Krafft"
+  company: "Cornell University"
+-
+  id: "DonElsborg"
+  name: "Don"
+  surname: "Elsborg"
+  company: "University of Colorado, Boulder"
+-
+  id: "DongJoonLee"
+  name: "Dong Joon"
+  surname: "Lee"
+  company: "Texas A&M University"
+-
+  id: "DonStott"
+  name: "Don"
+  surname: "Stott"
+  company: "National Center for Atmospheric Research"
+-
+  id: "EricaJohns"
+  name: "Erica"
+  surname: "Johns"
+  company: "Mann Library, Cornell University"
+-
+  id: "EricMeeks"
+  name: "Eric"
+  surname: "Meeks"
+  company: "UCSF"
+-
+  id: "ErinStalberg"
+  name: "Erin"
+  surname: "Stalberg"
+  company: "Mount Holyoke College"
+-
+  id: "EstherDzaleYeumo"
+  name: "Esther"
+  surname: "Dzale Yeumo"
+  company: "INRA"
+-
+  id: "HectorCorrea"
+  name: "Hector"
+  surname: "Correa"
+  company: "Brown University"
+-
+  id: "HeleneLucas"
+  name: "Hélène"
+  surname: "Lucas"
+  company: "INRA"
+-
+  id: "HudaKhan"
+  name: "Huda"
+  surname: "Khan"
+  company: "Cornell University"
+-
+  id: "JasonKovari"
+  name: "Jason"
+  surname: "Kovari"
+  company: "Cornell University"
+-
+  id: "JenniferLiss"
+  name: "Jennifer"
+  surname: "Liss"
+  company: "Indiana University"
+-
+  id: "JieLin"
+  name: "Jie"
+  surname: "Lin"
+  company: "Weill Cornell Medicine"
+-
+  id: "JimBlake"
+  name: "Jim"
+  surname: "Blake"
+  company: "Cornell University"
+-
+  id: "JohnFereira"
+  name: "John"
+  surname: "Fereira"
+  company: "Cornell University"
+-
+  id: "JohnFurfey"
+  name: "John"
+  surname: "Furfey"
+  company: "MBLWHOI Library"
+-
+  id: "JohnRiemer"
+  name: "John"
+  surname: "Riemer"
+  company: "University of California Los Angeles (UCLA)"
+-
+  id: "JuliaTrimmer"
+  name: "Julia"
+  surname: "Trimmer"
+  company: "Duke University"
+-
+  id: "KalmanVictor"
+  name: "Kalman"
+  surname: "Victor"
+  company: "LabSpot, SkillSight"
+-
+  id: "KeithMaull"
+  name: "Keith"
+  surname: "Maull"
+  company: "National Center for Atmospheric Research"
+-
+  id: "LamontCannon"
+  name: "Lamont"
+  surname: "Cannon"
+  company: "Duke University"
+-
+  id: "LamprosSmyrnaios"
+  name: "Lampros"
+  surname: "Smyrnaios"
+  company: "INRA"
+-
+  id: "LeslieYuan"
+  name: "Leslie"
+  surname: "Yuan"
+  company: "UCSF"
+-
+  id: "LindaRowan"
+  name: "Linda"
+  surname: "Rowan"
+  company: "UNAVCO"
+-
+  id: "LynetteRayle"
+  name: "Lynette"
+  surname: "Rayle"
+  company: "Cornell University"
+-
+  id: "MarijaneWhite"
+  name: "Marijane"
+  surname: "White"
+  company: "Oregon Health & Science University Ontology Development Group"
+-
+  id: "MatthewMayernik"
+  name: "Matthew"
+  surname: "Mayernik"
+  company: "National Center for Atmospheric Research"
+-
+  id: "MichaelBales"
+  name: "Michael"
+  surname: "Bales"
+  company: "Weill Cornell Medicine"
+-
+  id: "MichelleDurocher"
+  name: "Michelle"
+  surname: "Durocher"
+  company: "Harvard University"
+-
+  id: "MichelleFutornick"
+  name: "Michelle"
+  surname: "Futornick"
+  company: "Stanford University"
+-
+  id: "MikeConlon"
+  name: "Mike"
+  surname: "Conlon"
+  company: "Duraspace"
+-
+  id: "MikeDaniels"
+  name: "Mike"
+  surname: "Daniels"
+  company: "National Center for Atmospheric Research"
+-
+  id: "MuhammadJaved"
+  name: "Muhammad"
+  surname: "Javed"
+  company: "Cornell University"
+-
+  id: "NickCappadona"
+  name: "Nick"
+  surname: "Cappadona"
+  company: "Cornell University"
+-
+  id: "PaulAlbert"
+  name: "Paul"
+  surname: "Albert"
+  company: "Weill Cornell Medicine"
+-
+  id: "PaulFrank"
+  name: "Paul"
+  surname: "Frank"
+  company: "Library of Congress"
+-
+  id: "PrakashAdekkanattu"
+  name: "Prakash"
+  surname: "Adekkanattu"
+  company: "Weill Cornell Medicine"
+-
+  id: "RebeccaYounes"
+  name: "Rebecca"
+  surname: "Younes"
+  company: "Cornell University"
+-
+  id: "RodneyJacobson"
+  name: "Rodney"
+  surname: "Jacobson"
+  company: "Dartmouth College"
+-
+  id: "SandyPayette"
+  name: "Sandy"
+  surname: "Payette"
+  company: "Cornell University"
+-
+  id: "SarbajitDutta"
+  name: "Sarbajit"
+  surname: "Dutta"
+  company: "Weill Cornell Medicine"
+-
+  id: "ShuhengWu"
+  name: "Shuheng"
+  surname: "Wu"
+  company: "Queens College, The City University of New York"
+-
+  id: "SimeonWarner"
+  name: "Simeon"
+  surname: "Warner"
+  company: "Cornell University"
+-
+  id: "SimonPorter"
+  name: "Simon"
+  surname: "Porter"
+  company: "Digital Science"
+-
+  id: "StephenHearn"
+  name: "Stephen"
+  surname: "Hearn"
+  company: "University of Minnesota"
+-
+  id: "StevenMcCauley"
+  name: "Steven"
+  surname: "McCauley"
+  company: "Brown University"
+-
+  id: "TerrieWheeler"
+  name: "Terrie"
+  surname: "Wheeler"
+  company: "Weill Cornell Medicine"
+-
+  id: "VioletaIlik"
+  name: "Violeta"
+  surname: "Ilik"
+  company: "Northwestern University"
+  

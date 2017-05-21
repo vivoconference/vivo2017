@@ -130,7 +130,7 @@ This presentation will cover the following preliminary findings of the study: (1
   title: "Ontology Change Management at Duke"
   description: "The data from Scholars@Duke supports many department sites. This creates a tension where our ontology needs to grow and change, yet our data feeds need to remain stable. As we try to keep up with new ways of conceptualizing scholarship, we also prioritize making life easy for our data consumers. Referencing the paper 'A Classification of Ontology Change' by Giorgos Flouris, I will share some of our experiences with our ever-changing local extensions and our change management processes. I will also compare/contrast our experience at Duke to the broader process of managing change to the ViVO-ISF, as well as lessons learned from our last migration from the 1.5 to 1.7 ontology. I will also speak about the VIVO widgets and versioning of the widgets."
   subtype: presentation
-  speakers: ["DamrisMurry"]
+  speakers: ["DamarisMurry"]
 -
   id: 114
   title: "Importing, Exporting, and Updating VIVO Data"
@@ -209,7 +209,7 @@ Having identified research topics from internal research information, we show ho
   title: "The path towards authoritative and complete data"
   description: "As we evaluate potential data sources for Scholars@Duke, we are always looking for the balance of including authoritative/verified data vs. simply providing a means for editing data that is incorrect or incomplete. We also want to keep in mind the goals for how much detail we want to model in VIVO. In this talk or poster, I would discuss some of the limitations in our data sources and how we have compensated for these by providing options for editing profiles. I would speak to some of the highly edited sections of Scholars@Duke and how we try to strike the balance between completeness, granularity, and authoritativeness. I can also speak about customizations we have made to the SOLR search to incentivize faculty to edit their profiles."
   subtype: presentation
-  speakers: ["DamrisMurry"]
+  speakers: ["DamarisMurry"]
 -
   id: 122
   title: "SPARQL Query Optimization and other Dirty Tricks for Improving Visualizations Performance"
@@ -269,7 +269,6 @@ VIVO is positioned to be a platform of choice for disseminating academic institu
 This panel will consist of a (data) Journalist, Policy Maker, higher education industry expert, VIVO site expert, semantic web LOD expert, and ideally an entrepreneur of higher education applications. "
   subtype: presentation
   speakers: ["DonElsborg"]
-#Lost in Translation - Challenges of Tailoring VIVO to the Needs of the German Scholarly Landscape + TIB-FIS-Discovery - VIVO at the German National Library of Science and Technology
 -
   id: 128
   title: "Lost in Translation - Challenges of Tailoring VIVO to the Needs of the German Scholarly Landscape"
@@ -290,7 +289,7 @@ Libraries are shifting traditional notions of authority control from an approach
 The workshop will address the new initiative to start a pilot membership program for PCC (and other) institutions with the ISNI. This new initiative is intended to help create a pathway for globally shared identifier management work in libraries, in support of not only traditional uses, like including identifiers in MARC authority work, but also forward looking projects like linked data and non-MARC library initiatives like institutional repositories, faculty profiling systems and many other use cases."
   subtype: workshop
   place: "Lib Collab"
-  speakers: ["JohnReimer","AmberBilley","MichelleDurocher","PaulFrank","VioletaIlik","StephenHearn","JenniferLiss","AndrewMacEwan","ErinStalberg"]
+  speakers: ["JohnRiemer","AmberBilley","MichelleDurocher","PaulFrank","VioletaIlik","StephenHearn","JenniferLiss","AndrewMacEwan","ErinStalberg"]
   complexity: "Intermediate"
 -
   id: 702
@@ -342,55 +341,55 @@ One reason this might be preferable is because many if not most VIVO sites requi
   title: "Keynote"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: ["CristinaPattuelli"]
 -
   id: 802
   title: "Keynote"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: ["JodiSchneider"]
 -
   id: 803
   title: "Invited"
   description: ""
   subtype: invited
-  speakers: []
+  speakers: ["RebeccaBryant"]
 -
   id: 804
   title: "Invited"
   description: ""
   subtype: invited
-  speakers: []
+  speakers: ["YingDing"]
 -
   id: 805
   title: "Invited"
   description: ""
   subtype: invited
-  speakers: []
+  speakers: ["DavidEichmann"]
 -
   id: 806
   title: "Invited"
   description: ""
   subtype: invited
-  speakers: []
+  speakers: ["KatieFrey"]
 -
   id: 807
   title: "Invited"
   description: ""
   subtype: invited
-  speakers: ["JimHendler"]
+  speakers: ["JamesHendler"]
 -
   id: 901
   title: "Breakfast"
   place: "Griffis"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
   id: 902
   title: "Coffee Break"
   place: "Griffis"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
   id: 903
   title: "Lunch"
