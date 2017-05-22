@@ -353,8 +353,8 @@ One reason this might be preferable is because many if not most VIVO sites requi
   title: "Invited"
   description: ""
   subtype: invited
-  speakers: ["RebeccaBryant"]
--
+  speakers: ["JamesHendler"]
+- 
   id: 804
   title: "Invited"
   description: ""
@@ -371,13 +371,13 @@ One reason this might be preferable is because many if not most VIVO sites requi
   title: "Invited"
   description: ""
   subtype: invited
-  speakers: ["KatieFrey"]
+  speakers: ["RebeccaBryant"]
 -
   id: 807
   title: "Invited"
   description: ""
   subtype: invited
-  speakers: ["JamesHendler"]
+  speakers: ["KatieFrey"]
 -
   id: 901
   title: "Breakfast"
