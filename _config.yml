@@ -49,6 +49,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
+ - {permalink: "/logistics/", text: "Attending"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
  - {permalink: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
 ##bottomNavigationLinks:
