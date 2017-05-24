@@ -169,11 +169,11 @@
     }
     - {
     	startTime: "15:30",
-    	endTime: "16:30",
+    	endTime: "16:15",
     	sessionIds: [807]
     }
     - {
-    	startTime: "16:30",
+    	startTime: "16:15",
     	endTime: "17:00",
     	sessionIds: [128]
     }
