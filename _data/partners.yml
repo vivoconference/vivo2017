@@ -3,11 +3,15 @@
   elements:
     - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
     - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "clarivate-analytics.svg"}
-    - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}    
+    - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}
 -
   group: "Bronze Sponsors"
   elements:
     - {name: "GreenSight", description: "GreenSight", link: "https://www.greensightdata.com/", imageUrl: "GreenSight_Logo.png"}
+-
+  group: "Institutional Sponsors"
+  elements:
+    - {name: "WeillCornellMedicine", description: "Weill Cornell Medicine", link: "http://weill.cornell.edu", imageUrl: "wcm-logo.png"}
 #-
 #  group: "Gold Sponsors"
 #  elements:
