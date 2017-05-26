@@ -6524,6 +6524,7 @@ nav li a:hover {
 	background-color:#000000;
 	opacity: 0.75;
 	padding: 10px;
+	line-height: 2em;
 }
 
 #vivo-eventdate {
@@ -6532,6 +6533,7 @@ nav li a:hover {
 	background-color:#000000;
 	opacity: 0.75;
 	padding: 10px;
+	line-height: 2em;
 }
 
 #vivo-heroTitle {
@@ -6539,4 +6541,5 @@ nav li a:hover {
 	background-color:#000000;
 	opacity: 0.75;
 	padding: 10px;
+	line-height: 2em;
 }
