@@ -193,7 +193,7 @@ footerBlocks:
   title: "Contacts"
   links:
    - {permalink: "/team/", text: "VIVO 2017 Team"}
-   - {link: "mailto:contact@vivoweb.org", text: "contact@vivoweb.org"}
+   - {link: "mailto:conference@vivoweb.org", text: "conference@vivoweb.org"}
  -
   title: "FAQ"
   links:
