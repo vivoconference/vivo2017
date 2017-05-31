@@ -23,11 +23,16 @@ We will briefly discuss the (VIVO-ISF ontology driven) data modelling and data a
   speakers: ["MuhammadJaved","SandyPayette"]
 -
   id: 103
-  title: "1,001 Ways to Repurpose VIVO Data"
-  description: "By implementing VIVO, your institution’s research and scholarship are made available to local and global communities. But your institution has also created an integrated data set with infinite potential for so many other purposes like institutional planning, strategy and branding. 
-In this presentation, we’ll look at ways that Duke University has been using the integrated VIVO data set beyond web profiles. Scholars@Duke data is used for faculty annual reporting, Tableau dashboards, grants reporting, and visualizations highlighting various activities. We’ll revisit the results of a visualization competition, and preview a paid project for students to the Duke research landscape using Scholars@Duke data. Bring your questions and ideas for repurposing VIVO data to share with the community. "
+  title: "Lost in Translation - Challenges of Tailoring VIVO to the Needs of the German Scholarly Landscape"
+  description: "Every time a research information system is implemented in an academic institution there is a need to adjust the software to local needs. If a system has its roots in a different country, the adjustments can be more comprehensive. In this case, the VIVO ontology and a lot of the underlying assumptions, which are based on the realities of the US scholarly landscape, must be “tailored” to be able to depict “German” academic reality. The differences concern both the meaning of the translated terms and the usage of the terms in the common parlance. The prominent examples for such kind of terms are grants and faculties. 
+‘Grant’ is an essential concept to describe the funding of research projects. Universities are divided into colleges and schools. The concepts for the description of research funding in Germany are completely different, and universities are usually divided into ‘Fakultäten’ and ‘Lehrstühle’. Furthermore, terms like ‘faculty’, or ‘grant’ are not being used consistently in German academic institutions. 
+On the other hand some concepts which are important for representing the German academic landscape are missing in the VIVO Ontology. There are ongoing efforts to add missing classes and properties. The extension of the VIVO ontology with concepts as universal and interoperable as possible, and which are typical for Germany also requires broad agreement between German VIVO applicants. 
+Due to the above mentioned issues, it was necessary, that, actors from different German institutions build a network to collaborate on these problems. This collaboration takes place in a number of working groups, calls and on GitHub. It has been resulted in a general ontology extension (VIVO-DE) and several drafts of the translation of the VIVO Ontology. 
+Another common task is the translation of the VIVO application files into German and the constant updating of this translation with every new VIVO version. 
+The 'Kerndatensatz Forschung' (The Research Core Dataset - a data model for research reporting) as an extension of the VIVO Ontology is one of the current tasks, which is collaborated on as well. 
+This talk concerns the challenges, efforts and tools of the German VIVO community to address the described issues."
   subtype: presentation
-  speakers: ["JuliaTrimmer","DamarisMurry"]
+  speakers: ["ChristianHauschke"]
 -
   id: 104
   title: "Livin’ la VIVO loca: reviewing current VIVO use within institutional ecosystems to inform VIVO community technological infrastructure requirements"
@@ -271,16 +276,11 @@ This panel will consist of a (data) Journalist, Policy Maker, higher education i
   speakers: ["DonElsborg"]
 -
   id: 128
-  title: "Lost in Translation - Challenges of Tailoring VIVO to the Needs of the German Scholarly Landscape"
-  description: "Every time a research information system is implemented in an academic institution there is a need to adjust the software to local needs. If a system has its roots in a different country, the adjustments can be more comprehensive. In this case, the VIVO ontology and a lot of the underlying assumptions, which are based on the realities of the US scholarly landscape, must be “tailored” to be able to depict “German” academic reality. The differences concern both the meaning of the translated terms and the usage of the terms in the common parlance. The prominent examples for such kind of terms are grants and faculties. 
-‘Grant’ is an essential concept to describe the funding of research projects. Universities are divided into colleges and schools. The concepts for the description of research funding in Germany are completely different, and universities are usually divided into ‘Fakultäten’ and ‘Lehrstühle’. Furthermore, terms like ‘faculty’, or ‘grant’ are not being used consistently in German academic institutions. 
-On the other hand some concepts which are important for representing the German academic landscape are missing in the VIVO Ontology. There are ongoing efforts to add missing classes and properties. The extension of the VIVO ontology with concepts as universal and interoperable as possible, and which are typical for Germany also requires broad agreement between German VIVO applicants. 
-Due to the above mentioned issues, it was necessary, that, actors from different German institutions build a network to collaborate on these problems. This collaboration takes place in a number of working groups, calls and on GitHub. It has been resulted in a general ontology extension (VIVO-DE) and several drafts of the translation of the VIVO Ontology. 
-Another common task is the translation of the VIVO application files into German and the constant updating of this translation with every new VIVO version. 
-The 'Kerndatensatz Forschung' (The Research Core Dataset - a data model for research reporting) as an extension of the VIVO Ontology is one of the current tasks, which is collaborated on as well. 
-This talk concerns the challenges, efforts and tools of the German VIVO community to address the described issues."
+  title: "1,001 Ways to Repurpose VIVO Data"
+  description: "By implementing VIVO, your institution’s research and scholarship are made available to local and global communities. But your institution has also created an integrated data set with infinite potential for so many other purposes like institutional planning, strategy and branding. 
+In this presentation, we’ll look at ways that Duke University has been using the integrated VIVO data set beyond web profiles. Scholars@Duke data is used for faculty annual reporting, Tableau dashboards, grants reporting, and visualizations highlighting various activities. We’ll revisit the results of a visualization competition, and preview a paid project for students to the Duke research landscape using Scholars@Duke data. Bring your questions and ideas for repurposing VIVO data to share with the community. "
   subtype: presentation
-  speakers: ["ChristianHauschke"]
+  speakers: ["JuliaTrimmer","DamarisMurry"]
 -
   id: 701
   title: "Identity Management - PCC Task Group on Identity Management "
