@@ -334,7 +334,7 @@ Other options include a federated vocabulary harmonizing service where all VIVOs
 One reason this might be preferable is because many if not most VIVO sites require some sort of autonomy regarding the use of terms and their associations with other objects. Hence it’s imperative that the VIVO application continues to offer this flexibility. "
   subtype: workshop
   place: "Will Greenburg C"
-  speakers: ["DonElsborg","SimonPorter"]
+  speakers: ["DonElsborg","BenjaminGross","SimonPorter","VioletaIlik","PaulFrank","MuhammadJaved","MuhammadJaved"]
   complexity: "Expert"
 -
   id: 801
