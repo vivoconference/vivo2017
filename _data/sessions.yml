@@ -93,20 +93,23 @@ During this session, we will describe the problem, explain how AMP works, break 
   speakers: ["AnirvanChatterjee","EricMeeks","BrianTurner"]
 -
   id: 110
-  title: "Modeling Bibliographic Metadata: An Overview of the LD4L Labs/LD4P Ontology"
-  description: "Linked Data for Libraries Labs (LD4L Labs) is a Mellon Foundation-funded project whose goal is to advance the use and usefulness of linked data in libraries. Encompassing both ontology and tool development, it operates in close association with the affiliated Linked Data for Production (LD4P) project, which focuses on the migration of library metadata production to linked open data. The two projects collaborate on ontology development and data modeling, while the tools under development by the LD4L Labs team will be used in the LD4P cataloging initiative and rely on mappings and application profiles produced jointly by LD4L Labs and LD4P. 
-This presentation represents the work of the ontology development group, which is composed of members from the two projects too numerous to name individually. Henceforth I use the shorthand “LD4L/P” to refer to the joint effort and work products of these two projects.
-The LD4L/P ontology is an extension to the Library of Congress’s BIBFRAME 2.0 ontology (https://www.loc.gov/bibframe/docs). It is built on many of the principal concepts and terms defined in BIBFRAME, but diverges from it in several significant respects. The presentation provides an overview of the LD4L/P extension, including:
-- Fundamental BIBFRAME 2.0 concepts and models adopted by LD4L/P.
-- Foundational principles and best practices that motivate points of divergence, including:
+  title: "Modeling Bibliographic Metadata: An Overview of the bibliotek-o Ontology"
+  description: "Linked Data for Libraries Labs (LD4L Labs) is a Mellon Foundation-funded project whose goal is to advance the use and usefulness of linked data in libraries. Encompassing both ontology and tool development, it operates in close association with the affiliated Linked Data for Production (LD4P)project, which focuses on the migration of library metadata production to linked open data. The two projects collaborate on ontology development and data modeling, while the tools under development by the LD4L Labs team will be used in the LD4P cataloging initiative and rely on mappings and application profiles produced jointly by LD4L Labs and LD4P. This presentation represents the work of the LD4L Labs/LD4P ontology development group, which is composed of members from the two projects too numerous to name individually.
+
+bibliotek-o is a framework for modeling bibliographic metadata as linked data based on Library of Congress’s BIBFRAME ontology. It consists of the BIBFRAME ontology at its core; the bibliotek-o ontology, which both extends and provides alternative models to BIBFRAME; defined fragments of external ontologies, both within and outside the bibliographic domain; and an application profile specifying the recommended implementation of these ontologies.
+The presentation provides an overview of the bibliotek-o ontology, including:
+
+Fundamental BIBFRAME concepts and models adopted by bibliotek-o.
+Foundational principles and best practices that motivate points of divergence, including:
 -- Reuse and align with existing external vocabularies to promote data exchange and interoperability.
 -- Conversely, define terms broadly enough for reuse by external data sources.
--- Use OWL axioms in moderation to provide expressivity without overly constraining the ontology and the data it can model. 
+-- Use OWL axioms in moderation to provide expressivity without overly constraining the ontology and the data it can model.
 -- Prefer object properties and structured data over unstructured literals.
+-- Prefer atomic to composite data representation.
 -- Adopt a single method of expressing a relationship or attribute in order to minimize query paths.
 -- Bridge the competing demands to both migrate the existing highly detailed and nuanced bibliographic metadata, and prepare for a future of original cataloging in RDF that captures data in meaningful and useful ways with a real-world orientation.
-- Sample LD4L/P modeling patterns based on these principles, some of which have been inspired and informed by the core VIVO ontology.
-Finally, the presentation explores how incorporating real world data and models into the traditionally siloed domain of library metadata enables mutually enhancing, bi-directional links between the bibliographic-centered world of library catalogs and the scholar- and research-oriented VIVO application. The Cornell University Library is already experimenting with adding VIVO URLs to catalog records; demonstrating the potential that publishing the full catalog as linked open data using a data model that provides points of connection to VIVO data can achieve an enhanced discovery and access experience for users on both ends."
+Sample bibliotek-o modeling patterns based on these principles, some of which have been inspired and informed by the core VIVO ontology.
+Finally, the presentation explores how incorporating real world data and models into the traditionally siloed domain of library metadata enables mutually enhancing, bi-directional links between the bibliographic-centered world of library catalogs and the scholar- and research-oriented VIVO application. The Cornell University Library is already experimenting with adding VIVO URLs to catalog records, demonstrating the potential of publishing the full catalog as linked open data, using a data model that provides points of connection with VIVO data, to achieve an enhanced discovery and access experience for users on both ends."
   subtype: presentation
   speakers: ["RebeccaYounes"]
 -
