@@ -6,7 +6,29 @@ isStaticPost: false
 ---
 ### Late Breaking Call for Posters/Demo
 
-If you missed the earlier deadline, you have until June 12 to submit your poster or demo abstract. The poster/demo session lets you share your work in an informal, relaxed setting and chat with individual community members.
+If you missed the earlier deadline, you have until June 12 to submit your poster or demo abstract. There are many benefits to presenting at the VIVO poster session, but here are five good reasons:
+
+##### 1. Present in a stress-free situation.
+
+The poster/demo session at VIVO conferences is always informal and laid-back. You'll talk to just a few people at once. If presenting to a group doesn't sound fun, the poster/demo session is a great way to get experience without the pressure.
+
+##### 2. Road-test your big idea.
+
+Get instant feedback from fellow attendees about your current work. It doesn't need to be polished or complete. This is your chance to bounce your idea off VIVO community members.
+
+##### 3. Meet potential collaborators or consumers of your work.  
+
+Chances are, others are trying to solve the same problem and you could give them the solution they need. Or you might get help with a sticking point in your own work.
+
+##### 4. Demo something cool that you helped build.
+
+For the first time, we'll be doing demos at VIVO17. That means you'll get to show us a live version of your work - no poster needed!
+
+##### 5. Contribute to the scholarly ecosystem.
+
+Deposit your poster or demo abstract in figshare to generate a citation for your work and add it to the 2017 conference page in OpenVIVO.
+
+#### Late Breaking Call Details
 
 Proposals for posters and demos should be maximum of 500 words. Attendees will view and discuss your work during the poster/demo reception.
 Demos will be held during the poster session.  The person presenting the demo should provide the equipment (typically a laptop).
