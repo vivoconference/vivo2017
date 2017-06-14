@@ -150,24 +150,24 @@ ticketsOffers:
   validThrough: "2017-06-30T23:59"
   disabled: false
  -
-  name: "Standard Registration"
+  name: "Standard"
   price: "$375"
   priceCurrency: "USD"
   additionalInfo: ""
   buyButtonLink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "", ""]
+  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "Standard rate ends August 1, 2017", ""]
   validFrom: "2017-07-01T00:00"
   validThrough: "2017-08-01T23:59"
   disabled: false
  -
-  name: "Walk-in Registration"
+  name: "Walk-in"
   price: "$450"
   priceCurrency: "USD"
   additionalInfo: ""
   buyButtonLink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "", ""]
+  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "Walk-in registration at conference", ""]
   validFrom: "2017-08-02T00:00"
   validThrough: "2017-08-04T10:00"
   disabled: false
