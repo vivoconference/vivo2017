@@ -153,7 +153,6 @@ ticketsOffers:
   name: "Standard Registration"
   price: "$375"
   priceCurrency: "USD"
-  featured: false
   buyButtonLink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
   buyButtonText: "Buy Now"
   ticketContentList: ["Full VIVO 2017 Conference access including workshops", "Special rate ends June 23, 2017", ""]
