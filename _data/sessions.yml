@@ -353,7 +353,7 @@ One reason this might be preferable is because many if not most VIVO sites requi
   speakers: ["JodiSchneider"]
 -
   id: 803
-  title: "Invited: The unreasonable effectiveness of metadata"
+  title: "Invited: The Unreasonable Effectiveness of Metadata"
   description: "In the early days of the Semantic Web, there was a focus on the role of ontologies and reasoning as a driving use case.  However, as the world has changed, and data has become an increasingly more important part of the computing ecosystem, the linked-data aspects of the Web of Data increasingly have been the focus of Semantic Web use.  There has, however, been an underlying thread that looks at the Semantic Web as “rich metadata”, where simpler ontologies describe resources that themselves contain other information. VIVO embraces all these views, but is one of the leading examples of  metadata definition.  In this talk, I explore some new work in improving the relationships among the three models, and talk about how metadata can be used for much more than just describing resources."
   subtype: invited
   speakers: ["JamesHendler"]
