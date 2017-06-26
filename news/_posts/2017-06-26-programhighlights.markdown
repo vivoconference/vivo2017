@@ -7,29 +7,59 @@ isStaticPost: false
 
 We're excited about our final [VIVO 2017 Program](/schedule) which includes two keynotes, five invited talks, five (free to all attendees this year) workshops, the popular VIVO poster session, and many great sessions! Explore our [online program](/schedule) for details on all of our scheduled content including abstracts and speaker info.
 
-The final VIVO early bird rate expires at the end of day on June 30th, 2017. Register today and save $100 over the regular online registration rate!
+**The final VIVO early bird rate expires at the end of day on June 30th, 2017. [Register today](https://www.eventbrite.com/e/vivo-2017-conference-registration-32786665800?aff=vivoconfsite) and save $100 over the regular online registration rate!**
 
 #### Keynotes
 
+###### One, No One and One Hundred Thousand: Building Networked Identities through Linked Open Data
+
 [Cristina Pattuelli](https://cristinapattuelli.com/) is an associate professor at the [School of Information at Pratt Institute](https://www.pratt.edu/academics/information/) in New York, US and a visiting professor at the Department of the Cultural Heritage at the University of Bologna, Italy. Her current research explores the intersection between cultural heritage and information representation and access. She is the founder and director of [Linked Jazz](https://linkedjazz.org/), a project that investigates the application of Linked Open Data technology to archival resources, and recently served as co-chair of the [LODLAM Summit 2017](http://summit2017.lodlam.net/). Cristina's Thursday morning keynote **One, No One and One Hundred Thousand: Building Networked Identities through Linked Open Data** will explore the complexity of identities emerging from the web of links that relate one to many and the communities that help us understand our history, our culture, ourselves.
+
+###### Friday Morning Keynote
 
 [Jodi Schneider](http://jodischneider.com/jodi.html) is an assistant professor at the [School of Information Sciences at the University of Illinois Urbana Champaign](https://ischool.illinois.edu/). Jodi studies scholarly communication and social media through the lens of arguments, evidence, and persuasion. She is developing Linked Data
 (ontologies, metadata, Semantic Web) approaches to manage scientific evidence. Her Friday morning keynote topic will be announced shortly.
 
 #### Invited Talks
 
+###### The unreasonable effectiveness of metadata
+
 [James Hendler](http://www.cs.rpi.edu/~hendler/) is the Director of the [Institute for Data Exploration and Applications](http://idea.rpi.edu) and the [Tetherless World](https://tw.rpi.edu/web/TWC) Professor of Computer, Web and Cognitive Sciences at [RPI](http://rpi.edu). He also serves as a Director of the UK’s charitable [Web Science Trust](http://www.webscience.org). One of the originators of the “Semantic Web,” Hendler was a co-author with Tim Berners-Lee and Ora Lassila on the 2001 Scientific American paper [The Semantic Web](https://www.altmetric.com/explorer/outputs?q=semantic+web&scope=all&show_details=2959990). Jim's invited talk **The unreasonable effectiveness of metadata** will explore some new work in improving the relationships among the three Semantic Web models, and talk about how metadata can be used for much more than just describing resources.
+
+###### Knowledge Graph: Connecting Big Data Semantics
 
 [Ying Ding](https://www.scopus.com/authid/detail.uri?authorId=35229200000) is an Associate Professor at [School of Informatics and Computing](https://www.soic.indiana.edu/), Indiana University and is currently the associate director for data science online program. She is the Changjiang Guest Professor at [Wuhan University](http://en.whu.edu.cn/) and Elsevier Guest Professor at [Tongji University China](http://www.tongji.edu.cn/english/). She is the co-editor of the [Semantic Web Synthesis](http://www.morganclaypool.com/toc/wbe.1/1/1) book series by Morgan & Claypool publisher. Ying's invited talk **Knowledge Graph: Connecting Big Data Semantics** discusses big data challenges from the semantic perspective.
 
+###### Synthesizing Web Application Logic Using Structural Analysis of Ontologies
+
 [David Eichmann](https://www.slis.uiowa.edu/about) is Director and Associate Professor in the [School of Library and Information Science](https://www.slis.uiowa.edu/) at the University of Iowa. He also directs the [Information Science Subprogram in the Iowa Graduate Program in Informatics](https://informatics.uiowa.edu/study-opportunities/graduate-program/information-science). His current projects include [Shakeosphere](https://shakeosphere.lib.uiowa.edu/), [CTSAsearch](http://research.icts.uiowa.edu/polyglot/) and [Linked Data for Libraries](https://www.ld4l.org/) (LD4L). A recent project developed an application generator that, given an ontology and a representative triple store, constructs a JSP tag library and corresponding web application. The tag library encapsulates SPARQL interaction, allowing a developer to focus on customization of the application interface through the use of HTML-like mnemonic tags. David's invited talk **Synthesizing Web Application Logic Using Structural Analysis of Ontologies** will address the rationale for such an approach, lessons learned and difficulties overcome relating to more-or-less complete ontologies, how a SPARQL-driven application can be nimble, and the potential for the semantic web community.
 
-[Rebecca Bryant, PhD](https://orcid.org/0000-0002-2753-3881), serves as Senior Program Officer at OCLC Research where she leads and develops areas for the [OCLC Research Library Partnership](http://www.oclc.org/research/partnership.html) and for [OCLC Research](http://www.oclc.org/research.html) related to research information management and research support services. She has also served as Director of Community at [ORCID](https://orcid.org) where she led outreach initiatives to encourage the adoption of ORCID identifiers. Rebecca's invited talk **Making Sense of the Confusing World of Research Information Management** examines how research information management (RIM) practices have been in development in Europe, the United States, and across the globe. She will provide an update on OCLC Research investigations that seek to synthesize practices and language about institutional RIM. Her talk will also offer a view of the RIM ecosystem developed in cooperation with librarians from Research Library Partnership (http://www.oclc.org/research/partnership.html) institutions that represents global practices and demonstrates how enterprise-wide collaborations can collect, share, use, and preserve quality metadata about the institutional scholarly record.
+###### Making Sense of the Confusing World of Research Information Management
+
+[Rebecca Bryant](https://orcid.org/0000-0002-2753-3881), serves as Senior Program Officer at OCLC Research where she leads and develops areas for the [OCLC Research Library Partnership](http://www.oclc.org/research/partnership.html) and for [OCLC Research](http://www.oclc.org/research.html) related to research information management and research support services. She has also served as Director of Community at [ORCID](https://orcid.org) where she led outreach initiatives to encourage the adoption of ORCID identifiers. Rebecca's invited talk **Making Sense of the Confusing World of Research Information Management** examines how research information management (RIM) practices have been in development in Europe, the United States, and across the globe. She will provide an update on OCLC Research investigations that seek to synthesize practices and language about institutional RIM. Her talk will also offer a view of the RIM ecosystem developed in cooperation with librarians from Research Library Partnership (http://www.oclc.org/research/partnership.html) institutions that represents global practices and demonstrates how enterprise-wide collaborations can collect, share, use, and preserve quality metadata about the institutional scholarly record.
+
+###### The Unified Astronomy Thesaurus: Building, Managing, and Using a Community Supported Project
 
 [Katie Frey](http://orcid.org/0000-0001-9891-4465) is the Assistant Head and Digital Technologies Development Librarian at the [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/). Katie has been leading the development of the [Unified Astronomy Thesaurus](http://astrothesaurus.org/) (UAT), a community supported linked data vocabulary for sorting, filtering, and exploring astronomical literature, data sets, images, etc. Astronomical institutions, professional associations, journal publishers, learned societies, and data repositories support the UAT as a standard astronomical terminology. These stakeholders have begun efforts to incorporate UAT into their workflows and data products, taking advantage of its linked data model to build connections between platforms. Katie's invited talk **The Unified Astronomy Thesaurus: Building, Managing, and Using a Community Supported Project** will discuss tools for contributing and tracking suggestions that can be used by researchers and librarians, developed by the UAT's Steering Committee to solicit the detailed, comprehensive, and consistent community feedback required to keep the UAT relevant.
 
 #### Workshops
 
+###### Identity Management - PCC Task Group on Identity Management
+
+With increasing frequency, terminology like “Identity Management” is being used in many settings including libraries where the familiar term is “Authority Control.” Librarians are interested in understanding the difference between those concepts to better align their work with the new developments and new technologies and enable the use of the authority files and identity management registries in various settings. Our task group, Program for Cooperative Cataloging Task Group on Identity Management in NACO, would like to explore and discuss with the VIVO community our common areas of interest. Come hear about some of the emerging use cases illustrating the difference, where library authority data is being utilized in new ways and join us in discussing some of the implications these developments have for the broader community. This workshop will address the new initiative to start a pilot membership program for PCC (and other) institutions with the ISNI. This new initiative is intended to help create a pathway for globally shared identifier management work in libraries, in support of not only traditional uses, like including identifiers in MARC authority work, but also forward looking projects like linked data and non-MARC library initiatives like institutional repositories, faculty profiling systems and many other use cases.
+
+###### How to Make Your Research Networking System (RNS) Invaluable to Your Institution
+
+###### Managing Assets as Linked Data with Fedora
+
+###### Promoting FAIR data principles with figshare
+
+###### Crosswalking Research Area Vocabularies in VIVO
+
 #### Posters and Demos
 
+Our ever popular poster reception will be held Thursday evening in the **Skylight Lounge** in Weill Cornell Medicine's state-of-the-art [Belfer Research Building](http://news.weill.cornell.edu/news/2014/01/weill-cornell-opens-its-transformative-belfer-research-building-empowering-scientists-to-speed-disco). This year will feature a mix of posters and interactive demos, with drinks and appetizers provided.
+
 #### Sessions
+
+Explore our [online program](/schedule) for details on all of our scheduled content including abstracts and speaker info.
