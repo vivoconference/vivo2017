@@ -1,7 +1,7 @@
-- 
+-
   date: "2017-08-02"
   dateReadable: "August 2"
-  tracks: 
+  tracks:
     - {title: "Workshops", color: "#90be4e"}
     - {title: "Workshops", color: "#03a9f4"}
     - {title: "Workshops", color: "#e91e63"}
@@ -31,14 +31,14 @@
     	endTime: "18:30",
     	sessionIds: [905]
     }
-- 
+-
   date: "2017-08-03"
   dateReadable: "August 3"
-  tracks: 
+  tracks:
     - {title: "Belfer 302 A", color: "#90be4e"}
     - {title: "Belfer 302 B", color: "#03a9f4"}
     - {title: "Belfer 302 C", color: "#03a9f4"}
-  timeslots: 
+  timeslots:
     - {
     	startTime: "07:30",
     	endTime: "08:30",
@@ -97,7 +97,7 @@
     - {
     	startTime: "16:00",
     	endTime: "16:30",
-    	sessionIds: [113,114,115]
+    	sessionIds: [113,114,120]
     }
     - {
     	startTime: "16:30",
@@ -109,14 +109,14 @@
     	endTime: "19:00",
     	sessionIds: [906]
     }
-- 
+-
   date: "2017-08-04"
   dateReadable: "August 4"
-  tracks: 
+  tracks:
     - {title: "Belfer 302 A", color: "#90be4e"}
     - {title: "Belfer 302 B", color: "#03a9f4"}
     - {title: "Belfer 302 C", color: "#03a9f4"}
-  timeslots: 
+  timeslots:
     - {
     	startTime: "07:30",
     	endTime: "08:30",
@@ -135,12 +135,12 @@
     - {
         startTime: "10:30",
         endTime: "11:00",
-        sessionIds: [119,120,121]
+        sessionIds: [119,123,121]
     }
     - {
         startTime: "11:00",
         endTime: "11:30",
-        sessionIds: [122,123,124]
+        sessionIds: [122,115,124]
     }
     - {
         startTime: "11:30",
