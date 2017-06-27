@@ -37,20 +37,20 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pButton: "Register for VIVO 2017"
-c4pText: "Conference registration is open! VIVO workshops are included at no extra cost this year."
+c4pButton: "Register before June 30th to save $100!"
+c4pText: "VIVO conference registration is open! Workshops are included at no extra cost this year."
 c4pUrl: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
 c4sponsorsUrl: "news/sponsorship"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/news/", text: "News"}
+ - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
  - {permalink: "/logistics/", text: "Attending"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
 ##bottomNavigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -60,7 +60,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> VIVO Conference 2017"
-eventDate: "2nd-4th August, 2017"
+eventDate: "August 2nd-4th &sdot; New York City"
 typeoutTextValues: '"", "8th Annual ", "International "'
 typeoutFallback: "8th Annual International"
 heroButtons:
@@ -248,11 +248,11 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around New York"
+directionDetailsTitle: "New York City Transit, Hotel, and Activities"
 directionDetailsCards:
- - {title: "From the Airport", information: 'New York is served by three major airports, easily reachable by car, public transport or taxi.'}
- - {title: "Public Transit", information: 'New York has an excellent public transit network.'}
- - {title: "Hotels", information: 'New York has lots of great hotels. The <a href="/news/bentleyhotel">Bentley Hotel and other recommendations</a> provide convenient options.'}
+ - {title: "Transit", information: 'New York is served by three major airports, and an excellent public transit network to the conference location.'}
+ - {title: "Hotels", information: 'The <a href="/news/bentleyhotel">Bentley Hotel and other recommendations</a> provide convenient options for conference attendees.'}
+ - {title: "Activities", information: 'See our suggestions for <a href="/thingstodo">Things To Do</a>, if you or any travel companions have free time to explore New York City.'}
 
 # Hackathon
 hackathonTitle: "Hackathon"
