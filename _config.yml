@@ -77,9 +77,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "30", specialCharacter: "+", info: "hours", detail: "of knowledge sharing"}
-# - {count: "40", specialCharacter: "+", info: "speakers", detail: "from around the world"}
+ - {count: "70", specialCharacter: "+", info: "presenters", detail: "from North America and Europe"}
+ - {count: "40", specialCharacter: "+", info: "sessions", detail: "workshops, talks, posters and demos"}
+ - {count: "3", specialCharacter: "", info: "days", detail: "of knowledge sharing and networking"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus plenary"}
 
 # Latest News Block
@@ -248,7 +248,7 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "New York City Transit, Hotel, and Activities"
+directionDetailsTitle: "New York City Transit, Hotels, and Activities"
 directionDetailsCards:
  - {title: "Transit", information: 'New York is served by three major airports, and an excellent public transit network to the conference location.'}
  - {title: "Hotels", information: 'The <a href="/news/bentleyhotel">Bentley Hotel and other recommendations</a> provide convenient options for conference attendees.'}
