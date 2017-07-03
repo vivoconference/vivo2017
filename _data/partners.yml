@@ -5,6 +5,10 @@
     - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "clarivate-analytics.svg"}
     - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}
 -
+  group: "Silver Sponsors"
+  elements:
+    - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk", imageUrl: "Symplectic-MasterLogo.png"}
+-
   group: "Bronze Sponsors"
   elements:
     - {name: "GreenSight", description: "GreenSight", link: "https://www.greensightdata.com/", imageUrl: "GreenSight_Logo.png"}
