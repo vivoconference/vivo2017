@@ -208,6 +208,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://vivoweb.org", text: "VIVOWeb.org"}
+   - {link: "http://openvivo.org", text: "OpenVIVO"}
    - {link: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
    - {link: "http://vivoconference.org/vivo2015/", text: "VIVO 2015"}
  -

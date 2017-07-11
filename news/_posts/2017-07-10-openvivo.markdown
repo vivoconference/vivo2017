@@ -1,0 +1,20 @@
+---
+layout: post
+title:  OpenVIVO
+date:   2017-07-10
+isStaticPost: false
+---
+
+OpenVIVO is a demonstration of VIVO profiles that anyone can join. Help us grow OpenVIVO with #VIVO17 attendees! OpenVIVO features include:
+
+* Open and automated profiles
+* ORCiD login and integration
+* Open ontologies
+* OCLC FAST terminology
+* FAIR(2) Data
+* CRediT Attribution
+* Standard Persistent Identifiers
+* Immediate data reuse
+* 100% open source!
+
+Check out [the OpenVIVO flyer](/assets/VIVO17OpenVIVOFlyer.pdf) for more information, and feel free to share this flyer with colleagues who may not be able to attend.
