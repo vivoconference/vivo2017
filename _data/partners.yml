@@ -16,6 +16,17 @@
   group: "Institutional Sponsors"
   elements:
     - {name: "WeillCornellMedicine", description: "Weill Cornell Medicine", link: "http://weill.cornell.edu", imageUrl: "wcm-logo.png"}
+    - {name: "TheRockefellerUniversity", description: "The Rockefeller University", link: "https://www.rockefeller.edu/", imageUrl: "RU_logo.jpg"}
+    - {name: "CornellUniversity", description: "Cornell University", link: "http://www.cornell.edu/", imageUrl: "CU_LOGO_RED.gif"}
+    - {name: "VirginiaTech", description: "Virginia Tech", link: "http://www.vt.edu/", imageUrl: "vt.jpg"}
+-
+  group: "Welcome Reception Sponsor"
+  elements:
+    - {name: "WeillCornellMedicine", description: "Weill Cornell Medicine", link: "http://weill.cornell.edu", imageUrl: "wcm-logo.png"}
+-
+  group: "Poster Reception Sponsor"
+  elements:
+    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "clarivate-analytics.svg"}
 #-
 #  group: "Gold Sponsors"
 #  elements:

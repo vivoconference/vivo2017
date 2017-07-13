@@ -7,8 +7,6 @@ isStaticPost: false
 
 We're excited about our final [VIVO 2017 Program](/schedule) which includes two keynotes, five invited talks, five (free to all attendees this year) workshops, the popular VIVO poster session, and many great sessions! Explore our [online program](/schedule) for details on all of our scheduled content including abstracts and speaker info.
 
-**The final VIVO early bird rate expires at the end of day on June 30th, 2017. [Register today](https://www.eventbrite.com/e/vivo-2017-conference-registration-32786665800?aff=vivoconfsite) and save $100 over the regular online registration rate!**
-
 #### Keynote Talks
 
 ###### [One, No One and One Hundred Thousand: Building Networked Identities through Linked Open Data](http://vivoconference.org/schedule/#session-801)
