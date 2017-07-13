@@ -138,21 +138,10 @@ ticketsTitle: "Registration"
 ticketsInfo: "Registration grants full VIVO 2017 conference access including workshops. Accommodation is NOT included in the cost."
 ticketsOffers:
  -
-  name: "Final Early Bird"
-  price: "$275"
-  priceCurrency: "USD"
-  ribbon: "-27%"
-  featured: true
-  buyButtonLink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2017 Conference access including workshops", "Special rate ends July 7, 2017", ""]
-  validFrom: "2017-05-27T00:00"
-  validThrough: "2017-07-07T23:59"
-  disabled: false
- -
   name: "Standard"
   price: "$375"
   priceCurrency: "USD"
+  featured: true
   additionalInfo: ""
   buyButtonLink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite"
   buyButtonText: "Buy Now"
