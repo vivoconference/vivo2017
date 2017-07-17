@@ -35,9 +35,9 @@
   date: "2017-08-03"
   dateReadable: "August 3"
   tracks:
-    - {title: "Belfer 302 A", color: "#90be4e"}
-    - {title: "Belfer 302 B", color: "#03a9f4"}
-    - {title: "Belfer 302 C", color: "#03a9f4"}
+    - {title: "Uris", color: "#90be4e"}
+    - {title: "C-200", color: "#03a9f4"}
+    - {title: "A-250", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "07:30",
@@ -113,9 +113,9 @@
   date: "2017-08-04"
   dateReadable: "August 4"
   tracks:
-    - {title: "Belfer 302 A", color: "#90be4e"}
-    - {title: "Belfer 302 B", color: "#03a9f4"}
-    - {title: "Belfer 302 C", color: "#03a9f4"}
+    - {title: "Uris", color: "#90be4e"}
+    - {title: "C-200", color: "#03a9f4"}
+    - {title: "A-250", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "07:30",
