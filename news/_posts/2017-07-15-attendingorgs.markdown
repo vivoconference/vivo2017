@@ -45,6 +45,7 @@ The conference task force looks forward to the VIVO 2017 event dates, bringing t
 * [University of Iowa](https://uiowa.edu)
 * [University of Melbourne](http://www.unimelb.edu.au/)
 * [University of Pennsylvania](http://www.upenn.edu/)
+* [University of Puerto Rico](http://egcti.upr.edu)
 * [University of Tennessee Knoxville](https://www.utk.edu/)
 * [Virginia Tech](https://www.vt.edu/)
 * [Weill Cornell Medicine](http://weill.cornell.edu/)
