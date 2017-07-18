@@ -49,6 +49,7 @@ The conference task force looks forward to the VIVO 2017 event dates, bringing t
 * [University of Tennessee Knoxville](https://www.utk.edu/)
 * [Virginia Tech](https://www.vt.edu/)
 * [Weill Cornell Medicine](http://weill.cornell.edu/)
+* [Woods Hole Oceanographic Institution](http://www.whoi.edu)
 
 ##### Attending Organizations and Companies
 
