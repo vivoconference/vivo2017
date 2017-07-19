@@ -308,7 +308,7 @@ The workshop will address the new initiative to start a pilot membership program
   description: "Fedora is a flexible, extensible, open source repository platform for managing, preserving, and providing access to digital content. Fedora is used in a wide variety of institutions including libraries, museums, archives, and government organizations. Fedora 4 introduces native linked data capabilities and a modular architecture based on well-documented APIs and ease of integration with existing applications. Recent community initiatives have added more robust functionality for exporting resources from Fedora in standard formats to support complete digital preservation workflows. Both new and existing Fedora users will be interested in learning about and experiencing Fedora features and functionality first-hand.
 Attendees will be given pre-configured virtual machines that include Fedora bundled with the Solr search application and a triplestore that they can install on their laptops and continue using after the workshop. These virtual machines will be used to participate in hands-on exercises that will give attendees a chance to experience Fedora by following step-by-step instructions. Participants will learn how to create and manage content in Fedora in accordance with linked data best practices and the Portland Common Data Model. Attendees will also learn how to import resources into Fedora and export resources from Fedora to external systems and services as part of a digital curation workflow. Finally, participants will learn how to search and run SPARQL queries against content in Fedora using the included Solr index and triplestore."
   subtype: workshop
-  place: "Will Greenburg A"
+  place: "Uris"
   speakers: ["DavidWilcox","AndrewWoods"]
   complexity: "Intermediate"
 -
@@ -318,7 +318,7 @@ Attendees will be given pre-configured virtual machines that include Fedora bund
 Openly-available academic data on the web will soon become the norm. Funders and publishers are already making preparations for how this content will be best managed and preserved. The coming open data mandates from funders and governments mean that we are now talking about ‘when’, not ‘if’, the majority of academic outputs will live openly on the worldwide web. The EPSRC of the UK is mandating dissemination of all of the digital products of research they fund this year. Similarly, the European Commission, Whitehouse’s OSTP, and Government of Canada are pushing ahead with directives that are also causing a chain effect of open data directives amongst European governments and North American funding bodies.
 This workshop will be a mix of group discussion and case study presentations from Carnegie Mellon University and St Edward’s University, who will be talking through their approach to implementing figshare and the tools they have built on top of the figshare API. The half day will look at the research data management landscape, from the different approaches on the institutional level that are being taken to adjust to the various funder mandates to the ways your institution can ensure researchers comply with these funder requirements. In doing so, we will explore how existing workflows will be disrupted and what potential opportunities there are for adding value to academic research and profile at your institution. It will also take the audience through the experience of figshare and how we’re attempting to contribute in an area that has many stakeholders - funders, governments, institutions and the researchers themselves."
   subtype: workshop
-  place: "Will Greenburg B"
+  place: "C-200 Weill Auditorium"
   speakers: ["AlanHyndman"]
   complexity: "Beginner"
 -
@@ -336,7 +336,7 @@ Solving this problem is crucial, especially if one wants to traverse multiple ma
 Other options include a federated vocabulary harmonizing service where all VIVOs register and have their taxonomies mined in order to be synced with a master service. Perhaps something similar to a distributed blockchain service.
 One reason this might be preferable is because many if not most VIVO sites require some sort of autonomy regarding the use of terms and their associations with other objects. Hence it’s imperative that the VIVO application continues to offer this flexibility. "
   subtype: workshop
-  place: "Will Greenburg C"
+  place: "A-250"
   speakers: ["DonElsborg","BenjaminGross","SimonPorter","VioletaIlik","PaulFrank","MuhammadJaved","JohnFereira"]
   complexity: "Expert"
 -
