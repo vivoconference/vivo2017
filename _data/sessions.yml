@@ -291,7 +291,7 @@ In this presentation, we’ll look at ways that Duke University has been using t
 Libraries are shifting traditional notions of authority control from an approach primarily based on creating text strings to one focused on managing identities and entities. This workshop will examine the library experience of working collaboratively over centuries to standardize name forms, share important lessons learned, and explore what infrastructures might be put in place by libraries and institutions/organizations to enable us to work most effectively together going forward: minting and sharing identifiers, linking local identifiers to globally established ones, and creating metadata enrichment lifecycles that enable broad sharing of identity management activity.
 The workshop will address the new initiative to start a pilot membership program for PCC (and other) institutions with the ISNI. This new initiative is intended to help create a pathway for globally shared identifier management work in libraries, in support of not only traditional uses, like including identifiers in MARC authority work, but also forward looking projects like linked data and non-MARC library initiatives like institutional repositories, faculty profiling systems and many other use cases."
   subtype: workshop
-  place: "Lib Collab"
+  place: "C-200 Weill Auditorium"
   speakers: ["JohnRiemer","AmberBilley","MichelleDurocher","PaulFrank","VioletaIlik","StephenHearn","JenniferLiss","AndrewMacEwan","ErinStalberg"]
   complexity: "Intermediate"
 -
