@@ -300,7 +300,7 @@ The workshop will address the new initiative to start a pilot membership program
   description: "This workshop is designed to help institutions build, leverage, and deploy the information within their RNS across the institution. The goal is to increase awareness of, engagement with and dependence on your RNS to solidify the RNS’ roles in supporting researchers. Note that the takeaways from this workshop can be applied to your RNS regardless of the underlying product, and will work for a VIVO, Profiles, 'home grown,' or commercial RNS installation."
   subtype: workshop
   place: "A-250"
-  speakers: ["BrianTurner"]
+  speakers: ["BrianTurner","EricMeeks","LamontCannon","JuliaTrimmer","DouglasPicadio"]
   complexity: "Intermediate"
 -
   id: 703
