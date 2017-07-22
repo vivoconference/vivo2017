@@ -347,8 +347,8 @@ One reason this might be preferable is because many if not most VIVO sites requi
   speakers: ["CristinaPattuelli"]
 -
   id: 802
-  title: "Keynote"
-  description: ""
+  title: "Keynote: Viewing universities as landscapes of scholarship"
+  description: "The university can be seen as a collection of individuals, or as an administrative engine, but what sets a university apart is the production of knowledge and knowledgable people, through teaching, learning, and scholarly inquiry. In 2000, Michael Heaney proposed that the information landscape could be viewed 'as a contour map' with both peaks and troughs. We extend this analogy to take universities, and their faculty members, themselves as a part of this information landscape. This leads us to ask how we can apply linked data not just to a single university but to interconnect universities, and to survey the university itself as a landscape to support scholarly inquiry. In particular, we ask what would a “Connected Graph of Scholarship” do, that we can’t do now?"
   subtype: keynote
   speakers: ["JodiSchneider"]
 -
