@@ -17,8 +17,9 @@ Cristina's Thursday morning keynote **One, No One and One Hundred Thousand: Buil
 
 ###### [Friday Morning Keynote](http://vivoconference.org/schedule/#session-802)
 
-[Jodi Schneider](http://jodischneider.com/jodi.html) is an assistant professor at the [School of Information Sciences at the University of Illinois Urbana Champaign](https://ischool.illinois.edu/). Jodi studies scholarly communication and social media through the lens of arguments, evidence, and persuasion. She is developing Linked Data
-(ontologies, metadata, Semantic Web) approaches to manage scientific evidence. Her Friday morning keynote topic will be announced shortly.
+[Jodi Schneider](http://jodischneider.com/jodi.html) is an assistant professor at the [School of Information Sciences at the University of Illinois Urbana Champaign](https://ischool.illinois.edu/). Jodi studies scholarly communication and social media through the lens of arguments, evidence, and persuasion. She is developing Linked Data (ontologies, metadata, Semantic Web) approaches to manage scientific evidence.
+
+Jodi's Friday morning keynote **Viewing Universities as Landscapes of Scholarship** questions what a “Connected Graph of Scholarship” would do, that we can’t do now. The university can be seen as a collection of individuals, or as an administrative engine, but what sets a university apart is the production of knowledge and knowledgable people, through teaching, learning, and scholarly inquiry. In 2000, Michael Heaney proposed that the information landscape could be viewed 'as a contour map' with both peaks and troughs. We extend this analogy to take universities, and their faculty members, themselves as a part of this information landscape. This leads us to ask how we can apply linked data not just to a single university but to interconnect universities, and to survey the university itself as a landscape to support scholarly inquiry.
 
 #### Invited Talks
 
