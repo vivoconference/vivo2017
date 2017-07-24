@@ -68,10 +68,11 @@ heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About VIVO Conference"
+aboutTitle: "About VIVO"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Bringing together users, managers and developers from around the world to share the latest developments in semantic web academic profiles. Whether an experienced user, or just starting out, this is the event to attend." }
- - {title: "Interactive Sessions", image: "workshop.jpg", text: "Throughout the conference, interactive sessions help shape the future of VIVO." }
+ - {title: "Project", image: "conference.jpg", text: "VIVO is member-supported, open source software and an ontology for representing scholarship. VIVO encourages showcasing the scholarly record, research discovery, expert finding, network analysis, and assessment of research impact." }
+ - {title: "Community", image: "community.jpg", text: "VIVO is a network in which more than 140 institutions and agencies in more than 25 countries are implementing VIVO or producing VIVO-compatible data. See the VIVO site registry for a list." }
+ - {title: "Conference", image: "workshop.jpg", text: "The annual VIVO conference has been bringing together the VIVO community and its partners since 2010 to share the latest developments in semantic web academic profiles. Whether an experienced user, or just starting out, this is the event to attend." }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
