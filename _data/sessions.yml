@@ -1,4 +1,8 @@
 -
+  id: 0
+  title: ""
+  subtype: presentation
+-
   id: 101
   title: "Better Together : VIVO and Fedora"
   description: "As both the VIVO and Fedora communities continue to grow and evolve, there is an underlying sense that we are meant to be fast friends. We both hail from the academy (both Cornell, actually). We support the scholarly community; managing, showcasing and connecting scholarship. We are both fundamentally grounded in the world of linked data. We get our energy from overlapping communities of open source professionals. And it so happens that both of our projects are housed by the same, mission-driven, not-for-profit organization: DuraSpace.

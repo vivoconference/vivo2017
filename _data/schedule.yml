@@ -2,9 +2,9 @@
   date: "2017-08-02"
   dateReadable: "August 2"
   tracks:
-    - {title: "Workshops", color: "#90be4e"}
-    - {title: "Workshops", color: "#03a9f4"}
-    - {title: "Workshops", color: "#e91e63"}
+    - {title: "Workshops (Uris)", color: "#90be4e"}
+    - {title: "Workshops (C-200)", color: "#03a9f4"}
+    - {title: "Workshops (A-250)", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
@@ -14,7 +14,7 @@
     - {
     	startTime: "08:30",
     	endTime: "12:00",
-    	sessionIds: [701,702]
+    	sessionIds: [0,701,702]
     }
     - {
         startTime: "12:00",
