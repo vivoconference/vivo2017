@@ -2,7 +2,7 @@
   group: "Platinum Sponsors"
   elements:
     - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
-    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "clarivate-analytics.svg"}
+    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "crv_logo_rgb_pos.png"}
     - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}
 -
   group: "Silver Sponsors"
@@ -27,7 +27,7 @@
 -
   group: "Poster Reception Sponsor"
   elements:
-    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "clarivate-analytics.svg"}
+    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "crv_logo_rgb_pos.png"}
 #-
 #  group: "Gold Sponsors"
 #  elements:
