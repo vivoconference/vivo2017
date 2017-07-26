@@ -344,30 +344,35 @@ One reason this might be preferable is because many if not most VIVO sites requi
   title: "Keynote: One, No One and One Hundred Thousand: Building Networked Identities through Linked Open Data."
   description: "As the vision of the semantic web gets closer to a tangible reality and the linked open data cloud continues to expand in every direction, our attention has turned to the personal—from identity management to name services. Person entities form the axis of countless relationships and multiple contexts. We have only begun to explore the potential, as well as the challenges, of shaping people’s identities through the many layers of semantics we can gather from diverse data spaces. Pattuelli will explore the complexity of identities emerging from the web of links that relate one to many and the communities that help us understand our history, our culture, ourselves."
   subtype: keynote
+  place: "Uris"
   speakers: ["CristinaPattuelli"]
 -
   id: 802
   title: "Keynote: Viewing universities as landscapes of scholarship"
   description: "The university can be seen as a collection of individuals, or as an administrative engine, but what sets a university apart is the production of knowledge and knowledgable people, through teaching, learning, and scholarly inquiry. In 2000, Michael Heaney proposed that the information landscape could be viewed 'as a contour map' with both peaks and troughs. We extend this analogy to take universities, and their faculty members, themselves as a part of this information landscape. This leads us to ask how we can apply linked data not just to a single university but to interconnect universities, and to survey the university itself as a landscape to support scholarly inquiry. In particular, we ask what would a “Connected Graph of Scholarship” do, that we can’t do now?"
   subtype: keynote
+  place: "Uris"
   speakers: ["JodiSchneider"]
 -
   id: 803
   title: "Invited: The Unreasonable Effectiveness of Metadata"
   description: "In the early days of the Semantic Web, there was a focus on the role of ontologies and reasoning as a driving use case.  However, as the world has changed, and data has become an increasingly more important part of the computing ecosystem, the linked-data aspects of the Web of Data increasingly have been the focus of Semantic Web use.  There has, however, been an underlying thread that looks at the Semantic Web as “rich metadata”, where simpler ontologies describe resources that themselves contain other information. VIVO embraces all these views, but is one of the leading examples of  metadata definition.  In this talk, I explore some new work in improving the relationships among the three models, and talk about how metadata can be used for much more than just describing resources."
   subtype: invited
+  place: "Uris"
   speakers: ["JamesHendler"]
 -
   id: 804
   title: "Invited: Knowledge Graph: Connecting Big Data Semantics"
   description: "Big data brings us challenges also hopes. This talk discusses these challenges from the semantic perspective. It utilized two use cases to demonstrate the potential of using semantic technologies for data integration and data analysis. The first use case discusses how to form knowledge graph based on entities from literature and apply entitiymetrics to trace the development of entities. The second use case focuses on how to integrate public knowledge embedded in experimental data and literature data to facilitate drug discovery. It highlights some foreseeable future changes and some issues that urgently to get solved."
   subtype: invited
+  place: "Uris"
   speakers: ["YingDing"]
 -
   id: 805
   title: "Invited: Synthesizing Web Application Logic Using Structural Analysis of Ontologies"
   description: "The use of ontologies to model complex semantic relationships has become well-established, particularly in certain disciplines, such as biomedicine.  Standardization on languages such as OWL have further demonstrated the utility and reusability of such formalisms.  VIVO (the ontology) is an excellent example of community adoption of a shared semantic model, and projects such as CTSAsearch have demonstrated the potential for use of these models and the related data beyond that of the original context (i.e. VIVO the application).  However, effective use of semantic technologies still relies heavily on error-prone manual coding practices – limiting adoption.  The 2016 VIVO Conference had a remarkable undercurrent regarding the perception of SPARQL as an inefficient means of querying large information stores.  In response to this and Sandy Payette’s plenary call to arms regarding “silo architectures,” I’ve developed an application generator that, given an ontology and a representative triple store, constructs a JSP tag library and corresponding web application.  The tag library encapsulates SPARQL interaction, allowing a developer to focus on customization of the application interface through the use of HTML-like mnemonic tags.  The talk will address the rationale for such an approach, lessons learned and difficulties overcome relating to more-or-less complete ontologies, how a SPARQL-driven application can be nimble, and the potential for the semantic web community.  Examples will be drawn from a number of already generated interfaces, including a VIVO clone, BIBFRAME (v.1), DBpedia, FAST, GeoNames, GRID, and VIAF."
   subtype: invited
+  place: "Uris"
   speakers: ["DavidEichmann"]
 -
   id: 806
@@ -378,12 +383,14 @@ In this presentation, Dr. Bryant will share about OCLC Research (http://www.oclc
 
 OCLC is a global library cooperative providing shared technology, services, original research and community programs to support libraries, learning, research, and innovation. OCLC Research is one of the world’s leading centers developed exclusively to the challenges facing libraries and archives in a rapidly changing IT environment."
   subtype: invited
+  place: "Uris"
   speakers: ["RebeccaBryant"]
 -
   id: 807
   title: "Invited: The Unified Astronomy Thesaurus: Building, Managing, and Using a Community Supported Project"
   description: "The Unified Astronomy Thesaurus (UAT) is an open, interoperable, and community-supported thesaurus unifying existing divergent and isolated vocabularies in astronomy and astrophysics.  In order to solicit the detailed, comprehensive, and consistent community feedback required to keep the UAT relevant, the Steering Committee for the UAT has developed tools for contributing and tracking suggestions that can be used by researchers and librarians.  Many leading astronomical institutions, professional associations, journal publishers, learned societies, and data repositories support the UAT as a standard astronomical terminology.  These groups have begun efforts to incorporate and utilize the Unified Astronomy Thesaurus into their workflows and data products, taking advantage of the UAT's linked data model to build connections between platforms."
   subtype: invited
+  place: "Uris"
   speakers: ["KatieFrey"]
 -
   id: 901
