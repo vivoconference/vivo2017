@@ -212,7 +212,8 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/faq/", text: "Frequently Asked Questions"}
-   - {permalink: "/logistics/", text: "Logistics"}
+   - {permalink: "/thingstodo/restaurants", text: "Lunch & Dinner"}
+   - {link: "http://vivoconference.org/assets/vivo17-event-map.pdf", text: "Event Map"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
