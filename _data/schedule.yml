@@ -37,7 +37,7 @@
   tracks:
     - {title: "Uris", color: "#90be4e"}
     - {title: "C-200", color: "#03a9f4"}
-    - {title: "A-250", color: "#03a9f4"}
+    - {title: "A-250", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
@@ -115,7 +115,7 @@
   tracks:
     - {title: "Uris", color: "#90be4e"}
     - {title: "C-200", color: "#03a9f4"}
-    - {title: "A-250", color: "#03a9f4"}
+    - {title: "A-250", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
