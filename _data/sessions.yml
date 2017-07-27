@@ -287,6 +287,7 @@ This panel will consist of a (data) Journalist, Policy Maker, higher education i
   description: "By implementing VIVO, your institution’s research and scholarship are made available to local and global communities. But your institution has also created an integrated data set with infinite potential for so many other purposes like institutional planning, strategy and branding.
 In this presentation, we’ll look at ways that Duke University has been using the integrated VIVO data set beyond web profiles. Scholars@Duke data is used for faculty annual reporting, Tableau dashboards, grants reporting, and visualizations highlighting various activities. We’ll revisit the results of a visualization competition, and preview a paid project for students to the Duke research landscape using Scholars@Duke data. Bring your questions and ideas for repurposing VIVO data to share with the community. "
   subtype: presentation
+  place: "Uris"
   speakers: ["JuliaTrimmer","DamarisMurry"]
 -
   id: 701
@@ -295,7 +296,7 @@ In this presentation, we’ll look at ways that Duke University has been using t
 Libraries are shifting traditional notions of authority control from an approach primarily based on creating text strings to one focused on managing identities and entities. This workshop will examine the library experience of working collaboratively over centuries to standardize name forms, share important lessons learned, and explore what infrastructures might be put in place by libraries and institutions/organizations to enable us to work most effectively together going forward: minting and sharing identifiers, linking local identifiers to globally established ones, and creating metadata enrichment lifecycles that enable broad sharing of identity management activity.
 The workshop will address the new initiative to start a pilot membership program for PCC (and other) institutions with the ISNI. This new initiative is intended to help create a pathway for globally shared identifier management work in libraries, in support of not only traditional uses, like including identifiers in MARC authority work, but also forward looking projects like linked data and non-MARC library initiatives like institutional repositories, faculty profiling systems and many other use cases."
   subtype: workshop
-  place: "C-200 Weill Auditorium"
+#  place: "C-200 Weill Auditorium"
   speakers: ["JohnRiemer","AmberBilley","MichelleDurocher","PaulFrank","VioletaIlik","StephenHearn","JenniferLiss","AndrewMacEwan","ErinStalberg"]
   complexity: "Intermediate"
 -
@@ -303,7 +304,7 @@ The workshop will address the new initiative to start a pilot membership program
   title: "How to Make Your Research Networking System (RNS) Invaluable to Your Institution. Speakers: UCSF"
   description: "This workshop is designed to help institutions build, leverage, and deploy the information within their RNS across the institution. The goal is to increase awareness of, engagement with and dependence on your RNS to solidify the RNS’ roles in supporting researchers. Note that the takeaways from this workshop can be applied to your RNS regardless of the underlying product, and will work for a VIVO, Profiles, 'home grown,' or commercial RNS installation."
   subtype: workshop
-  place: "A-250"
+#  place: "A-250"
   speakers: ["BrianTurner","EricMeeks","LamontCannon","JuliaTrimmer","DouglasPicadio"]
   complexity: "Intermediate"
 -
@@ -312,7 +313,7 @@ The workshop will address the new initiative to start a pilot membership program
   description: "Fedora is a flexible, extensible, open source repository platform for managing, preserving, and providing access to digital content. Fedora is used in a wide variety of institutions including libraries, museums, archives, and government organizations. Fedora 4 introduces native linked data capabilities and a modular architecture based on well-documented APIs and ease of integration with existing applications. Recent community initiatives have added more robust functionality for exporting resources from Fedora in standard formats to support complete digital preservation workflows. Both new and existing Fedora users will be interested in learning about and experiencing Fedora features and functionality first-hand.
 Attendees will be given pre-configured virtual machines that include Fedora bundled with the Solr search application and a triplestore that they can install on their laptops and continue using after the workshop. These virtual machines will be used to participate in hands-on exercises that will give attendees a chance to experience Fedora by following step-by-step instructions. Participants will learn how to create and manage content in Fedora in accordance with linked data best practices and the Portland Common Data Model. Attendees will also learn how to import resources into Fedora and export resources from Fedora to external systems and services as part of a digital curation workflow. Finally, participants will learn how to search and run SPARQL queries against content in Fedora using the included Solr index and triplestore."
   subtype: workshop
-  place: "Uris"
+#  place: "Uris"
   speakers: ["DavidWilcox","AndrewWoods"]
   complexity: "Intermediate"
 -
@@ -322,7 +323,7 @@ Attendees will be given pre-configured virtual machines that include Fedora bund
 Openly-available academic data on the web will soon become the norm. Funders and publishers are already making preparations for how this content will be best managed and preserved. The coming open data mandates from funders and governments mean that we are now talking about ‘when’, not ‘if’, the majority of academic outputs will live openly on the worldwide web. The EPSRC of the UK is mandating dissemination of all of the digital products of research they fund this year. Similarly, the European Commission, Whitehouse’s OSTP, and Government of Canada are pushing ahead with directives that are also causing a chain effect of open data directives amongst European governments and North American funding bodies.
 This workshop will be a mix of group discussion and case study presentations from Carnegie Mellon University and St Edward’s University, who will be talking through their approach to implementing figshare and the tools they have built on top of the figshare API. The half day will look at the research data management landscape, from the different approaches on the institutional level that are being taken to adjust to the various funder mandates to the ways your institution can ensure researchers comply with these funder requirements. In doing so, we will explore how existing workflows will be disrupted and what potential opportunities there are for adding value to academic research and profile at your institution. It will also take the audience through the experience of figshare and how we’re attempting to contribute in an area that has many stakeholders - funders, governments, institutions and the researchers themselves."
   subtype: workshop
-  place: "C-200 Weill Auditorium"
+#  place: "C-200 Weill Auditorium"
   speakers: ["AlanHyndman"]
   complexity: "Beginner"
 -
@@ -340,7 +341,7 @@ Solving this problem is crucial, especially if one wants to traverse multiple ma
 Other options include a federated vocabulary harmonizing service where all VIVOs register and have their taxonomies mined in order to be synced with a master service. Perhaps something similar to a distributed blockchain service.
 One reason this might be preferable is because many if not most VIVO sites require some sort of autonomy regarding the use of terms and their associations with other objects. Hence it’s imperative that the VIVO application continues to offer this flexibility. "
   subtype: workshop
-  place: "A-250"
+#  place: "A-250"
   speakers: ["DonElsborg","BenjaminGross","SimonPorter","VioletaIlik","PaulFrank","MuhammadJaved","JohnFereira"]
   complexity: "Expert"
 -
@@ -421,7 +422,7 @@ OCLC is a global library cooperative providing shared technology, services, orig
 -
   id: 905
   title: "Welcome Reception"
-  place: "Skylight lounge"
+  place: "Skylight Lounge"
   service: true
 -
   id: 906
