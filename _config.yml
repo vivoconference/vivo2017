@@ -45,13 +45,15 @@ c4sponsorsUrl: "news/sponsorship"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
+# - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
+ - {permalink: "/logistics/", text: "Attending"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/logistics/", text: "Attending"}
- - {permalink: "/news/sponsorship", text: "Sponsor"}
+# - {permalink: "/logistics/", text: "Attending"}
+# - {permalink: "/news/sponsorship", text: "Sponsor"}
+ - {permalink: "https://vivo2017.eventbrite.com/?aff=vivoconfsite", text: "Register"}
  - {permalink: "/news/", text: "News"}
- - {permalink: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
+# - {permalink: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
 ##bottomNavigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
@@ -241,9 +243,9 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "New York City Transit, Hotels, and Activities"
 directionDetailsCards:
- - {title: "Transit", information: 'New York is served by three major airports, and an excellent public transit network to the conference location.'}
- - {title: "Hotels", information: 'The <a href="/news/bentleyhotel">Bentley Hotel and other recommendations</a> provide convenient options for conference attendees.'}
- - {title: "Activities", information: 'See our suggestions for <a href="/thingstodo">Things To Do</a>, if you or any travel companions have free time to explore New York City.'}
+ - {title: "Conference Venue", information: 'VIVO 2017 is being held at <a href="http://weill.cornell.edu">Weill Cornell Medicine</a> with registration in the Griffis Faculty Club at <a href="https://www.google.com/maps/dir//1300+York+Ave,+New+York,+NY+10065/@40.7649911,-73.9569786,17z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89c258c3c1e215e7:0x81ea7acaf37d930b!2m2!1d-73.9547899!2d40.7649911">1300 York Avenue</a>. See our <a href="/assets/vivo17-event-map.pdf">detailed event map</a> for the location of all conference events.'}
+ - {title: "Transit & Hotels", information: 'New York is served by three major airports, and an excellent public transit network to the conference location. The <a href="/news/bentleyhotel">Bentley Hotel and other recommendations</a> provide convenient options for conference attendees.'}
+ - {title: "Activities & Eats", information: 'See our suggestions for <a href="/thingstodo">Things To Do</a> if you or travel companions have free time to explore New York City. Includes a list of <a href="/thingstodo/restaurants">nearby restaurants</a> for lunch and dinner.'}
 
 # Hackathon
 hackathonTitle: "Hackathon"
