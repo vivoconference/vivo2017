@@ -2,9 +2,9 @@
   date: "2017-08-02"
   dateReadable: "Wednesday August 2"
   tracks:
-    - {title: "Workshops (Uris)", color: "#90be4e"}
-    - {title: "Workshops (C-200)", color: "#03a9f4"}
-    - {title: "Workshops (A-250)", color: "#e91e63"}
+    - {title: "Uris", color: "#90be4e"}
+    - {title: "C-200", color: "#03a9f4"}
+    - {title: "A-250", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
