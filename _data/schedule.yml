@@ -1,10 +1,10 @@
 -
   date: "2017-08-02"
-  dateReadable: "August 2"
+  dateReadable: "Wednesday August 2"
   tracks:
-    - {title: "Workshops (Uris)", color: "#90be4e"}
-    - {title: "Workshops (C-200)", color: "#03a9f4"}
-    - {title: "Workshops (A-250)", color: "#e91e63"}
+    - {title: "Uris", color: "#90be4e"}
+    - {title: "C-200", color: "#03a9f4"}
+    - {title: "A-250", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
@@ -33,7 +33,7 @@
     }
 -
   date: "2017-08-03"
-  dateReadable: "August 3"
+  dateReadable: "Thursday August 3"
   tracks:
     - {title: "Uris", color: "#90be4e"}
     - {title: "C-200", color: "#03a9f4"}
@@ -111,7 +111,7 @@
     }
 -
   date: "2017-08-04"
-  dateReadable: "August 4"
+  dateReadable: "Friday August 4"
   tracks:
     - {title: "Uris", color: "#90be4e"}
     - {title: "C-200", color: "#03a9f4"}
