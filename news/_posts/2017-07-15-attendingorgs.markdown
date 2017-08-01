@@ -9,8 +9,8 @@ The conference task force looks forward to the VIVO 2017 event dates, bringing t
 
 ##### Attending Universities
 
-* [Adelphi University](http://www.adelphi.edu)
 * [Aalborg Universitet København (AAU CPH)](http://www.aau-cph.dk)
+* [Adelphi University](http://www.adelphi.edu)
 * [Brown University](http://www.brown.edu)
 * [Carnegie Mellon University](http://www.cmu.edu/)
 * [Cold Spring Harbor Laboratory](http://www.cshl.edu/)
@@ -25,7 +25,6 @@ The conference task force looks forward to the VIVO 2017 event dates, bringing t
 * [Indiana University](https://www.indiana.edu)
 * [Massachusetts Institute of Technology](http://www.mit.edu/)
 * [McMaster University](http://www.mcmaster.ca)
-* [Northwestern University](http://www.northwestern.edu)
 * [NYU School of Medicine](https://med.nyu.edu)
 * [Old Dominion University](https://www.odu.edu)
 * [Oregon Health & Science University](http://www.ohsu.edu/xd/)
@@ -49,7 +48,6 @@ The conference task force looks forward to the VIVO 2017 event dates, bringing t
 * [University of Illinois Chicago](http://www.uic.edu/)
 * [University of Illinois Urbana Champaign](http://illinois.edu/)
 * [University of Iowa](https://uiowa.edu)
-* [University of Melbourne](http://www.unimelb.edu.au/)
 * [University of Pennsylvania](http://www.upenn.edu/)
 * [University of Puerto Rico](http://egcti.upr.edu)
 * [University of Tennessee Knoxville](https://www.utk.edu/)
@@ -74,7 +72,6 @@ The conference task force looks forward to the VIVO 2017 event dates, bringing t
 * [Korea Institute of Science and Technology Information (KISTI)](http://www.kisti.re.kr/eng/)
 * [Lawrence Berkeley National Laboratory](http://www.lbl.gov/)
 * [Library of Congress](https://loc.gov/)
-* [Marine Biological Laboratory](http://www.mbl.edu/)
 * [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/)
 * [National Institute for Materials Science](http://www.nims.go.jp)
 * [National Center for Atmospheric Research (NCAR)](https://ncar.ucar.edu/)
