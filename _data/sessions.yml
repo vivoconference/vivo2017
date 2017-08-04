@@ -245,7 +245,7 @@ At present, we generate the T32 documents using a query which ties faculty liste
 -
   id: 124
   title: "Niche Applications of VIVO Data: Developing Educational and Industry-Facing Software Ex VIVO"
-  description: ""
+  description: "As undergraduate researchers looking to create an accessible record of researcher metadata for prospective RA’s to use, our beginnings were shaped by a problem that affected us.  We were in for something of a rude awakening, as we soon discovered that what was really at play was a totalizing structural problem, that the profiling infrastructure at so many universities seemed too far behind to catalog the output of their faculty. That is, besides the ones with VIVO and other profiling and repository frameworks at their institutions.  After realizing that so many forces out there were trying to tackle the same problems, we focused our ambitions with the help of a new partner, UCSF, to make a system for medical schools and the burgeoning trend of student scholarly projects.  Our presentation will focus on LabSpot—a mentorship and administration framework for medical schools and their research curricula.  But we will also speak about how that project and VIVO have inspired ScholarSight, an inchoate disambiguation and analytics service facing the industry, geared towards leveraging profiling- and meta-data to attract funding.  As we outline the business requirements and product functionality related to each specific offering, we will demonstrate how VIVO and other resources have provided us with the tools, knowledge-base, and community to pursue problem-solving at this granular, user-specific level."
   subtype: presentation
   speakers: ["KalmanVictor","ArielKatz"]
 -
