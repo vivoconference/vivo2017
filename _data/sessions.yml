@@ -25,6 +25,7 @@ We will briefly discuss the (VIVO-ISF ontology driven) data modelling and data a
 [2] https://github.com/Symplectic/vivo"
   subtype: presentation
   speakers: ["MuhammadJaved","SandyPayette"]
+  presentation: "https://doi.org/10.6084/m9.figshare.5271907.v1"
 -
   id: 103
   title: "Lost in Translation - Challenges of Tailoring VIVO to the Needs of the German Scholarly Landscape"
@@ -37,6 +38,7 @@ The 'Kerndatensatz Forschung' (The Research Core Dataset - a data model for rese
 This talk concerns the challenges, efforts and tools of the German VIVO community to address the described issues."
   subtype: presentation
   speakers: ["ChristianHauschke"]
+  presentation: "https://doi.org/10.6084/m9.figshare.5285743.v1"
 -
   id: 104
   title: "Livin’ la VIVO loca: reviewing current VIVO use within institutional ecosystems to inform VIVO community technological infrastructure requirements"
@@ -86,6 +88,7 @@ VitroLib design is informed by multiple factors, including our continuing explor
   description: "Getting high-quality data into VIVO profiles is sometimes a challenge. For journal publications, institutions often turn to multidisciplinary databases like the Web of Science Core Collection to ingest reliable metadata. Clarivate Analytics has other content types beyond the literature found in Web of Science Core Collection. For this proof of concept, we ingested other researcher outputs such as patents, datasets, and clinical trials to enrich individual profiles and promote a broader range of faculty activity."
   subtype: presentation
   speakers: ["AnnBeynon"]
+  presentation: "https://doi.org/10.6084/m9.figshare.5271031.v1"
 -
   id: 109
   title: "Secret Mobile Mode: How Accelerated Mobile Pages (AMP) is Quietly Improving the UCSF Profiles Mobile Experience"
@@ -154,6 +157,7 @@ Researchers' publications can be identified and loaded into VIVO by interfacing 
 These open source tools are currently being developed to be built with VIVO 1.9."
   subtype: presentation
   speakers: ["RodneyJacobson"]
+  presentation: "https://doi.org/10.6084/m9.figshare.5280007.v1"
 -
   id: 115
   title: "Engaging Faculty and Scholars User Community using Diverse Outreach Methods and Analytics"
@@ -204,6 +208,7 @@ We integrate visualizations at different level. Research interest of a faculty m
 We will discuss our process for selection, design, and development of an initial set of visualizations as well as our approach to the underlying technical architecture. What data is necessary for the generation of these visualization, and how it is modelled. By engaging an initial set of pilot partners, we are evaluating the use of these data-driven visualizations by multiple stakeholders, including faculty, students, librarians, administrators, and the public. "
   subtype: presentation
   speakers: ["MuhammadJaved","SandyPayette"]
+  presentation: "https://doi.org/10.6084/m9.figshare.5277958.v1"
 -
   id: 120
   title: "Gaining strategic insight and advantage from internally managed research information"
